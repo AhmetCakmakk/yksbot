@@ -1,0 +1,201 @@
+Universite,Uni_egitim,girisim_destek,akademisyen,sosyal,yurtdisi_egitim,arastirma_olanaklari,sehir,uni_id,il_id
+"Yıldız Teknik Üniversitesi",1,70.01,1700,88,821,NULL,Istanbul,1,34
+"İzmir Yüksek Teknoloji Enstitüsü",44,66.99,696,89,124,862.47,İzmir,2,35
+"Abdullah Gül Üniversitesi",3,37.93,294,85,2,705.46,Kayseri,3,38
+"MEF Üniversitesi",4,NULL,173,81,36,417.56,Istanbul,4,34
+"Ege Üniversitesi",9,58.42,2980,89,413,978.84,İzmir,5,35
+"TED Üniversitesi",6,NULL,328,83,6,500.63,Ankara,6,6
+"Erciyes Üniversitesi",22,58.01,2114,88,59,909.8,Kayseri,7,38
+"Hasan Kalyoncu Üniversitesi",8,46.51,280,85,16,624.72,Gaziantep,8,27
+"İhsan Doğramacı Bilkent Üniversitesi",9,NULL,NULL,86,NULL,NULL,İzmir,9,35
+"Sabancı Üniversitesi",10,NULL,NULL,86,NULL,NULL,İzmir,10,35
+"İzmir Ekonomi Üniversitesi",11,38.32,610,80,60,586.2,İzmir,11,35
+"Koç Üniversitesi",11,67.21,852,81,356,1126.41,Istanbul,12,34
+"Özyeğin Üniversitesi",13,67.73,471,86,105,680.1,Istanbul,13,34
+"Sanko Üniversitesi",14,NULL,153,76,NULL,343.43,Gaziantep,14,27
+"Acıbadem Mehmet Ali Aydınlar Üniversitesi",15,NULL,NULL,83,NULL,NULL,Ankara,15,6
+"Piri Reis Üniversitesi",16,NULL,202,82,23,449.52,Istanbul,16,34
+"Galatasaray Üniversitesi",17,NULL,303,89,429,509.43,Istanbul,17,34
+"Yaşar Üniversitesi",18,42.02,407,78,64,579.4,İzmir,18,35
+"Bezm-İ Âlem Vakıf Üniversitesi",19,NULL,NULL,74,NULL,NULL,Selçuklu,19,NULL
+"Akdeniz Üniversitesi",17,49.55,2596,90,147,848.62,Antalya,20,7
+"Gebze Teknik Üniversitesi",21,58.69,797,78,53,917.82,Kocaeli,21,41
+"Biruni Üniversitesi",22,NULL,428,84,33,616.5,Istanbul,22,34
+"Çanakkale Onsekiz Mart Üniversitesi",30,40.03,1983,80,119,683.79,Canakkale,23,17
+"Beykoz Üniversitesi",24,NULL,140,69,9,125.03,Istanbul,24,34
+"İstanbul Atlas Üniversitesi",25,NULL,458,81,9,NULL,Denizli,25,20
+"Hacettepe Üniversitesi",7,55.8,3548,80,157,1072.82,Ankara,26,6
+"Altınbaş Üniversitesi",27,NULL,NULL,72,NULL,NULL,Gaziantep,27,27
+"Konya Teknik Üniversitesi",28,41.23,508,78,NULL,680.57,Eskisehir,28,26
+"Türk-Alman Üniversitesi",29,NULL,359,88,39,442.17,Istanbul,29,34
+"Ordu Üniversitesi",30,NULL,954,84,4,610.69,Ordu,30,52
+"Bartın Üniversitesi",31,NULL,NULL,79,NULL,NULL,Bartin,31,NULL
+"Orta Doğu Teknik Üniversitesi",3,80.61,1976,81,615,1060.65,Ankara,32,6
+"İbn Haldun Üniversitesi",33,NULL,149,82,4,494.51,Aydin,33,NULL
+"Sağlık Bilimleri Üniversitesi",34,NULL,NULL,70,NULL,NULL,Sivas,34,58
+"Muğla Sıtkı Koçman Üniversitesi",35,NULL,NULL,83,NULL,NULL,Malatya,35,44
+"Süleyman Demirel Üniversitesi",29,37.57,1806,84,47,765.18,Isparta,36,32
+"İstanbul Bilgi Üniversitesi",23,NULL,570,80,191,522.3,Istanbul,37,34
+"İstanbul Teknik Üniversitesi",4,79.39,2470,81,379,1032,Istanbul,38,34
+"Kadir Has Üniversitesi",31,44.28,253,83,150,676.69,Istanbul,39,34
+"Ankara Yıldırım Beyazıt Üniversitesi",40,NULL,NULL,82,NULL,NULL,Ankara,40,6
+"Tarsus Üniversitesi",41,NULL,282,61,2,551.89,Kocaeli,41,41
+"Ankara Üniversitesi",8,51.81,3635,69,299,1032.49,Ankara,42,6
+"Bandırma Onyedi Eylül Üniversitesi",43,NULL,NULL,60,NULL,NULL,Balıkesir,43,10
+"İskenderun Teknik Üniversitesi",44,NULL,370,78,3,611.08,İskenderun,44,NULL
+"Çukurova Üniversitesi",18,46.32,2086,83,78,864.64,Adana,45,1
+"KTO Karatay Üniversitesi",46,NULL,331,79,37,449.12,Konya,46,42
+"Bursa Uludağ Üniversitesi",47,48.87,2264,84,84,820.19,Bursa,47,16
+"Mersin Üniversitesi",48,NULL,1686,78,104,729.85,Mersin,48,33
+"İzmir Kâtip Çelebi Üniversitesi",49,NULL,1170,74,25,772.83,İzmir,49,35
+"Fatih Sultan Mehmet Vakıf Üniversitesi",50,NULL,NULL,73,NULL,NULL,Ankara,50,6
+"Kocaeli Üniversitesi",41,44.8,2087,76,160,774.61,Kocaeli,51,41
+"Burdur Mehmet Akif Ersoy Üniversitesi",52,NULL,1160,80,7,595.89,Burdur,52,15
+"Balıkesir Üniversitesi",53,NULL,NULL,75,NULL,NULL,Istanbul,53,34
+"Anadolu Üniversitesi",1,NULL,1468,91,41,717.56,Eskisehir,54,26
+"İstanbul Üniversitesi",5,59.32,3420,79,657,1029.22,Istanbul,55,34
+"İstanbul 29 Mayıs Üniversitesi",56,NULL,NULL,78,NULL,NULL,Sanliurfa,56,63
+"Demiroğlu Bilim Üniversitesi",57,NULL,193,66,NULL,466.04,Istanbul,57,34
+"İstanbul Sabahattin Zaim Üniversitesi",58,NULL,358,84,26,521.02,Istanbul,58,34
+"Atatürk Üniversitesi",13,45.51,2707,79,28,884.68,Erzurum,59,25
+"Sakarya Üniversitesi",21,45.3,1672,74,109,796.6,Sakarya,60,54
+"Nuh Naci Yazgan Üniversitesi",61,NULL,131,81,3,282,Kayseri,61,38
+"Eskişehir Teknik Üniversitesi",62,50.61,727,71,61,711.33,Kütahya,62,43
+"Işık Üniversitesi",63,NULL,NULL,70,NULL,NULL,Manisa,63,45
+"Marmara Üniversitesi",14,54.05,3150,75,1267,914.39,Istanbul,64,34
+"İnönü Üniversitesi",35,NULL,1515,84,27,787.25,Malatya,65,44
+"Maltepe Üniversitesi",66,NULL,570,79,23,437.45,Istanbul,66,34
+"Boğaziçi Üniversitesi",2,65.37,966,77,402,878.9,Istanbul,67,34
+"Yeditepe Üniversitesi",36,45.48,1067,88,546,712.49,Istanbul,68,34
+"Trakya Üniversitesi",37,NULL,1721,80,4,640.36,Edirne,69,22
+"Ankara Sosyal Bilimler Üniversitesi",70,NULL,456,80,12,352.2,Ankara,70,6
+"Atılım Üniversitesi",71,NULL,NULL,79,NULL,NULL,Antakya,71,31
+"İstanbul Ticaret Üniversitesi",72,NULL,263,69,30,491.44,Istanbul,72,34
+"İzmir Bakırçay Üniversitesi",73,NULL,NULL,80,NULL,NULL,Burdur,73,15
+"Van Yüzüncü Yıl Üniversitesi",74,NULL,NULL,78,NULL,NULL,Van,74,65
+"Kırşehir Ahi Evran Üniversitesi",75,NULL,NULL,74,NULL,NULL,Istanbul,75,34
+"Karadeniz Teknik Üniversitesi",26,51.06,2115,77,67,859.04,Trabzon,76,61
+"Erzurum Teknik Üniversitesi",77,NULL,392,62,5,617.99,Erzurum,77,25
+"Manisa Celâl Bayar Üniversitesi",78,NULL,1640,75,22,705.14,Istanbul,78,34
+"İstanbul Üniversitesi-Cerrahpaşa",79,55.04,1994,61,60,954.44,Istanbul,79,34
+"Kapadokya Üniversitesi",80,NULL,243,74,18,286.62,Istanbul,80,34
+"Pamukkale Üniversitesi",25,40.8,2096,82,69,706.47,Denizli,81,20
+"Zonguldak Bülent Ecevit Üniversitesi",82,NULL,1291,71,33,610.61,Zonguldak,82,67
+"İstanbul Kültür Üniversitesi",45,NULL,432,74,72,429.24,Istanbul,83,34
+"İstanbul Medipol Üniversitesi",42,48.84,1578,80,66,749,Istanbul,84,34
+"Giresun Üniversitesi",85,NULL,1172,74,14,559.87,Giresun,85,28
+"Harran Üniversitesi",86,NULL,1172,74,10,701.92,Sanliurfa,86,NULL
+"Gazi Üniversitesi",15,51.16,3064,80,53,981.81,Ankara,87,6
+"Tekirdağ Namık Kemal Üniversitesi",88,NULL,NULL,76,NULL,NULL,Istanbul,88,34
+"Ondokuz Mayıs Üniversitesi",89,NULL,NULL,76,NULL,NULL,Nevşehir,89,50
+"TOBB Ekonomi ve Teknoloji Üniversitesi",50,55.24,362,69,37,705.53,Ankara,90,6
+"Isparta Uygulamalı Bilimleri Üniversitesi",91,NULL,NULL,82,NULL,NULL,Kastamonu,91,37
+"İstanbul Okan Üniversitesi",92,NULL,789,81,56,478.73,Corum,92,19
+"Başkent Üniversitesi",32,37.52,1899,79,29,704.3,Ankara,93,6
+"Afyon Sağlık Bilimleri Üniversitesi",94,NULL,NULL,60,NULL,NULL,Istanbul,94,34
+"Selçuk Üniversitesi",19,38.16,2583,72,35,853.78,Selçuklu,95,NULL
+"Bahçeşehir Üniversitesi",39,61.22,818,78,100,677.08,Istanbul,96,34
+"Dokuz Eylül Üniversitesi",10,47.65,2849,72,87,873.09,İzmir,97,35
+"Antalya Bilim Üniversitesi",98,NULL,316,68,42,496.23,Antalya,98,7
+"Kütahya Sağlık Bilimleri Üniversitesi",99,NULL,NULL,60,NULL,NULL,Rize,99,53
+"Dicle Üniversitesi",100,NULL,1637,78,41,603.29,Diyarbakir,100,NULL
+"Necmettin Erbakan Üniversitesi",101,NULL,1900,64,15,734.68,Konya,101,42
+"İstanbul Medeniyet Üniversitesi",102,NULL,1097,82,19,758.05,Istanbul,102,34
+"Karabük Üniversitesi",103,NULL,1176,72,22,686.39,Karabük,103,78
+"Adana Alparslan Türkeş Bilim ve Teknoloji Ü.",104,NULL,NULL,49,NULL,NULL,Kayseri,104,38
+"Mimar Sinan Güzel Sanatlar Üniversitesi",105,NULL,642,72,106,423.02,Istanbul,105,34
+"Tokat Gaziosmanpaşa Üniversitesi",106,NULL,1554,78,23,612.38,Tokat,106,60
+"Hitit Üniversitesi",107,NULL,824,73,19,623.12,Corum,107,19
+"İstanbul Kent Üniversitesi",108,NULL,332,52,4,245.71,Istanbul,108,34
+"İstanbul Beykent Üniversitesi",109,NULL,790,72,72,NULL,Kırşehir,109,40
+"Gaziantep Üniversitesi",27,NULL,1654,64,38,735.49,Gaziantep,110,27
+"Aydın Adnan Menderes Üniversitesi",111,NULL,NULL,69,NULL,NULL,Giresun,111,28
+"Fırat Üniversitesi",112,NULL,NULL,68,NULL,NULL,Istanbul,112,34
+"Ufuk Üniversitesi",113,NULL,221,63,3,420.69,Ankara,113,6
+"Sivas Cumhuriyet Üniversitesi",34,41.85,1882,70,18,703.88,Sivas,114,58
+"Recep Tayyip Erdoğan Üniversitesi",115,NULL,1268,71,13,704.41,Rize,115,53
+"Çankaya Üniversitesi",116,NULL,262,71,15,777.56,Ankara,116,6
+"Düzce Üniversitesi",117,37.71,1220,62,53,697.74,Düzce,117,81
+"İstinye Üniversitesi",118,43.63,709,65,47,692.18,Istanbul,118,34
+"Kastamonu Üniversitesi",119,NULL,987,70,16,621.34,Kastamonu,119,37
+"Üsküdar Üniversitesi",120,NULL,674,56,57,460.46,Istanbul,120,34
+"Yüksek İhtisas Üniversitesi",121,NULL,260,58,NULL,411.53,Ankara,121,6
+"Karamanoğlu Mehmetbey Üniversitesi",122,NULL,882,71,3,641.5,Karaman,122,70
+"Lokman Hekim Üniversitesi",123,NULL,335,44,NULL,414.49,Osmaniye,123,80
+"Bursa Teknik Üniversitesi",124,47.6,590,54,12,640.67,Bursa,124,16
+"Mudanya Üniversitesi",125,NULL,140,58,2,NULL,Istanbul,125,34
+"Kütahya Dumlupınar Üniversitesi",126,NULL,NULL,70,NULL,NULL,Sinop,126,57
+"Mardin Artuklu Üniversitesi",127,NULL,692,68,11,324.15,Mardin,127,47
+"Çağ Üniversitesi",128,NULL,139,67,22,403.22,Mersin,128,33
+"Kırklareli Üniversitesi",129,NULL,NULL,68,NULL,NULL,Istanbul,129,34
+"Nevşehir Hacı Bektaş Veli Üniversitesi",130,NULL,NULL,61,NULL,NULL,Nevşehir,130,50
+"Bolu Abant İzzet Baysal Üniversitesi",43,NULL,1520,65,20,712.39,Bolu,131,14
+"Hatay Mustafa Kemal Üniversitesi",132,NULL,1073,55,19,604.63,Antakya,132,NULL
+"Toros Üniversitesi",133,NULL,154,60,5,261.39,Mersin,133,33
+"Ankara Hacı Bayram Veli Üniversitesi",134,NULL,NULL,48,NULL,NULL,Kilis,134,79
+"Afyon Kocatepe Üniversitesi",49,NULL,1099,67,63,647.61,Afyonkarahisar,135,3
+"Niğde Ömer Halisdemir Üniversitesi",136,NULL,1112,69,24,670.63,Nigde,136,51
+"Kafkas Üniversitesi",137,NULL,963,65,4,540.22,Kars,137,36
+"Amasya Üniversitesi",138,NULL,743,57,7,461.06,Amasya,138,5
+"Sakarya Uygulamalı Bilimler Üniversitesi",139,NULL,NULL,60,NULL,NULL,Istanbul,139,34
+"İstanbul Topkapı Üniversitesi",140,NULL,NULL,70,NULL,NULL,Ardahan,140,75
+"Uşak Üniversitesi",141,NULL,921,69,25,568.25,Usak,141,64
+"İstanbul Nişantaşı Üniversitesi",142,NULL,NULL,69,NULL,NULL,Istanbul,142,34
+"Kayseri Üniversitesi",143,NULL,295,49,NULL,442.96,Bitlis,143,13
+"Eskişehir Osmangazi Üniversitesi",28,44.53,1606,58,147,797.22,Eskisehir,144,26
+"Gaziantep İslam Bilim ve Teknoloji Ü.",145,NULL,NULL,71,NULL,NULL,Alanya,145,NULL
+"Siirt Üniversitesi",146,NULL,685,58,5,587.78,Siirt,146,56
+"İzmir Tınaztepe Üniversitesi",147,NULL,NULL,54,NULL,NULL,Istanbul,147,34
+"Doğuş Üniversitesi",148,NULL,427,64,19,384.2,Istanbul,148,34
+"Samsun Üniversitesi",149,NULL,464,70,1,NULL,Mus,149,49
+"Ardahan Üniversitesi",150,NULL,379,60,NULL,488.13,Ardahan,150,75
+"Yalova Üniversitesi",151,NULL,738,49,30,517.18,Yalova,151,77
+"Ankara Müzik ve Güzel Sanatlar Üniversitesi",152,NULL,139,73,5,190.96,Istanbul,152,34
+"Avrasya Üniversitesi",153,NULL,239,58,NULL,243.41,Trabzon,153,61
+"Alanya Üniversitesi",154,NULL,76,56,35,NULL,Alanya,154,NULL
+"Kırıkkale Üniversitesi",155,NULL,NULL,72,NULL,NULL,Ankara,155,6
+"İstanbul Gedik Üniversitesi",156,NULL,294,54,12,346.69,Istanbul,156,34
+"Çankırı Karatekin Üniversitesi",157,NULL,NULL,51,NULL,NULL,Sirnak,157,NULL
+"Ankara Medipol Üniversitesi",158,NULL,442,64,12,NULL,İzmir,158,35
+"Sinop Üniversitesi",159,NULL,621,63,21,522.37,Sinop,159,57
+"İstanbul Sağlık ve Teknoloji Üniversitesi",160,NULL,NULL,52,NULL,NULL,Istanbul,160,34
+"Ağrı İbrahim Çeçen Üniversitesi",161,NULL,NULL,61,NULL,NULL,Tunceli,161,62
+"Kahramanmaraş Sütçü İmam Üniversitesi",162,NULL,1292,60,26,655.17,Kahramanmaras,162,46
+"Erzincan Binali Yıldırım Üniversitesi",163,NULL,NULL,59,NULL,NULL,Yenişehir,163,NULL
+"Trabzon Üniversitesi",164,NULL,594,59,NULL,361.87,Hakkari,164,30
+"Ostim Teknik Üniversitesi",165,NULL,234,43,13,NULL,Alanya,165,NULL
+"Gümüşhane Üniversitesi",166,NULL,666,59,22,474.8,Gumushane,166,29
+"İstanbul Arel Üniversitesi",167,NULL,494,54,22,478.89,Istanbul,167,34
+"İstanbul Rumeli Üniversitesi",168,NULL,248,58,14,227.61,Istanbul,168,34
+"Artvin Çoruh Üniversitesi",169,NULL,565,49,12,515.48,Artvin,169,8
+"Bingöl Üniversitesi",170,NULL,719,56,9,675.71,Bingöl,170,12
+"Yozgat Bozok Üniversitesi",171,NULL,986,59,NULL,608.84,Yozgat,171,66
+"Muş Alparslan Üniversitesi",172,NULL,645,56,15,460.64,Mus,172,49
+"Aksaray Üniversitesi",173,NULL,936,46,12,627.82,Aksaray,173,68
+"Konya Gıda ve Tarım Üniversitesi",174,NULL,NULL,61,NULL,NULL,Antalya,174,7
+"Haliç Üniversitesi",NULL,NULL,444,71,62,310.3,Istanbul,175,34
+"Alanya Alaaddin Keykubat Üniversitesi",NULL,NULL,658,66,9,460.44,Alanya,176,NULL
+"Bilecik Şeyh Edebali Üniversitesi",NULL,NULL,817,54,8,572.69,Bilecik,177,11
+"Osmaniye Korkut Ata Üniversitesi",NULL,NULL,605,57,15,547.12,Osmaniye,178,80
+"İstanbul Gelişim Üniversitesi",NULL,NULL,907,43,78,467.95,NULL,179,34
+"Malatya Turgut Özal Üniversitesi",NULL,NULL,478,52,NULL,487.04,NULL,180,NULL
+"Adıyaman Üniversitesi",NULL,NULL,NULL,49,NULL,NULL,NULL,181,NULL
+"Türk Hava Kurumu Üniversitesi",NULL,NULL,152,45,17,424.77,Ankara,182,6
+"Batman Üniversitesi",NULL,NULL,575,55,12,436.44,Batman,183,72
+"Iğdır Üniversitesi",NULL,NULL,NULL,44,NULL,NULL,NULL,184,NULL
+"Bayburt Üniversitesi",NULL,NULL,504,46,15,530.98,Bayburt,185,69
+"İstanbul Aydın Üniversitesi",NULL,NULL,NULL,53,NULL,NULL,NULL,186,34
+"Munzur Üniversitesi",NULL,NULL,505,50,1,561.55,Tunceli,187,62
+"İstanbul Yeni Yüzyıl Üniversitesi",NULL,NULL,NULL,48,NULL,NULL,NULL,188,34
+"İzmir Demokrasi Üniversitesi",NULL,NULL,406,42,9,388.14,İzmir,189,35
+"Fenerbahçe Üniversitesi",NULL,NULL,280,46,10,233.8,Istanbul,190,34
+"Kilis 7 Aralık Üniversitesi",NULL,NULL,NULL,40,NULL,NULL,NULL,191,NULL
+"Kocaeli Sağlık ve Teknoloji Üniversitesi",NULL,NULL,NULL,53,NULL,NULL,NULL,192,41
+"İstanbul Galata Üniversitesi",NULL,NULL,159,44,3,NULL,NULL,193,34
+"Ankara Bilim Üniversitesi",NULL,NULL,124,39,10,NULL,NULL,194,6
+"Şırnak Üniversitesi",NULL,NULL,NULL,36,NULL,NULL,Sirnak,195,73
+"Hakkâri Üniversitesi",NULL,NULL,338,38,1,369.42,NULL,196,NULL
+"Bitlis Eren Üniversitesi",NULL,NULL,544,53,2,448,Bitlis,197,13
+"Kahramanmaraş İstiklal Üniversitesi",NULL,NULL,178,32,1,NULL,NULL,198,NULL
+"Antalya Belek Üniversitesi",NULL,NULL,106,37,NULL,103.67,Antalya,199,7
+"İstanbul Esenyurt Üniversitesi",NULL,NULL,272,45,20,182.6,Istanbul,200,34

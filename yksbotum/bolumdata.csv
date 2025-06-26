@@ -1,0 +1,1001 @@
+bolum_id,bolum_adi,uni_id,fakulte,egitim_dili,puan_turu,puan
+1,"Psikoloji (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,374
+2,"Psikoloji (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,374
+3,"Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,319
+4,"Mimarlık (İngilizce)",3,"Mimarlık Fakültesi",İngilizce,SAY,333
+5,"Bilgisayar Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,439
+6,"Bilgisayar Mühendisliği (İngilizce) (KKTC Uyruklu)",3,"Mühendislik Fakültesi",İngilizce,SAY,NULL
+7,"Elektrik-Elektronik Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,406
+8,"Endüstri Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,397
+9,"İnşaat Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,300
+10,"Makine Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,367
+11,"Malzeme Bilimi ve Nanoteknoloji Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,351
+12,"Biyomühendislik (İngilizce)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,307
+13,"Moleküler Biyoloji ve Genetik (İngilizce)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,353
+14,"Moleküler Biyoloji ve Genetik (İngilizce) (KKTC Uyruklu)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,282
+15,"Ekonomi (İngilizce)",3,"Yönetim Bilimleri Fakültesi",İngilizce,EA,320
+16,"İşletme (İngilizce)",3,"Yönetim Bilimleri Fakültesi",İngilizce,EA,334
+17,"Eczacılık (İngilizce) (%50 İndirimli)",15,"Eczacılık Fakültesi",İngilizce,SAY,400
+18,"Eczacılık (İngilizce) (Burslu)",15,"Eczacılık Fakültesi",İngilizce,SAY,466
+19,"Eczacılık (İngilizce) (Ücretli)",15,"Eczacılık Fakültesi",İngilizce,SAY,387
+20,"Psikoloji (%25 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,316
+21,"Psikoloji (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,404
+22,"Psikoloji (İngilizce) (%25 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,322
+23,"Psikoloji (İngilizce) (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,411
+24,"Psikoloji (İngilizce) (Ücretli)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,239
+25,"Psikoloji (Ücretli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,230
+26,"Sosyoloji (%50 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,196
+27,"Sosyoloji (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,337
+28,"Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,292
+29,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,469
+30,"Biyomedikal Mühendisliği (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,294
+31,"Biyomedikal Mühendisliği (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,396
+32,"Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,268
+33,"Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,449
+34,"Beslenme ve Diyetetik (%25 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,245
+35,"Beslenme ve Diyetetik (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,393
+36,"Beslenme ve Diyetetik (İngilizce) (%25 İndirimli)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,225
+37,"Beslenme ve Diyetetik (İngilizce) (Burslu)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,397
+38,"Fizyoterapi ve Rehabilitasyon (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,238
+39,"Fizyoterapi ve Rehabilitasyon (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,374
+40,"Hemşirelik (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,239
+41,"Hemşirelik (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,388
+42,"Hemşirelik (İngilizce) (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,300
+43,"Hemşirelik (İngilizce) (Burslu)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,398
+44,"Sağlık Yönetimi (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,EA,225
+45,"Sağlık Yönetimi (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,EA,334
+46,"Tıp (İngilizce) (%50 İndirimli)",15,"Tıp Fakültesi",İngilizce,SAY,483
+47,"Tıp (İngilizce) (Burslu)",15,"Tıp Fakültesi",İngilizce,SAY,549
+48,"Psikoloji (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,374
+49,"Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,319
+50,"Mimarlık (İngilizce)",3,"Mimarlık Fakültesi",İngilizce,SAY,333
+51,"Bilgisayar Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,439
+52,"Bilgisayar Mühendisliği (İngilizce) (KKTC Uyruklu)",3,"Mühendislik Fakültesi",İngilizce,SAY,NULL
+53,"Elektrik-Elektronik Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,406
+54,"Endüstri Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,397
+55,"İnşaat Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,300
+56,"Makine Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,367
+57,"Malzeme Bilimi ve Nanoteknoloji Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,351
+58,"Biyomühendislik (İngilizce)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,307
+59,"Moleküler Biyoloji ve Genetik (İngilizce)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,353
+60,"Moleküler Biyoloji ve Genetik (İngilizce) (KKTC Uyruklu)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,282
+61,"Ekonomi (İngilizce)",3,"Yönetim Bilimleri Fakültesi",İngilizce,EA,320
+62,"İşletme (İngilizce)",3,"Yönetim Bilimleri Fakültesi",İngilizce,EA,334
+63,"Eczacılık (İngilizce) (%50 İndirimli)",15,"Eczacılık Fakültesi",İngilizce,SAY,400
+64,"Eczacılık (İngilizce) (Burslu)",15,"Eczacılık Fakültesi",İngilizce,SAY,466
+65,"Eczacılık (İngilizce) (Ücretli)",15,"Eczacılık Fakültesi",İngilizce,SAY,387
+66,"Psikoloji (%25 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,316
+67,"Psikoloji (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,404
+68,"Psikoloji (İngilizce) (%25 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,322
+69,"Psikoloji (İngilizce) (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,411
+70,"Psikoloji (İngilizce) (Ücretli)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,239
+71,"Psikoloji (Ücretli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,230
+72,"Sosyoloji (%50 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,196
+73,"Sosyoloji (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,337
+74,"Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,292
+75,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,469
+76,"Biyomedikal Mühendisliği (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,294
+77,"Biyomedikal Mühendisliği (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,396
+78,"Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,268
+79,"Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,449
+80,"Beslenme ve Diyetetik (%25 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,245
+81,"Beslenme ve Diyetetik (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,393
+82,"Beslenme ve Diyetetik (İngilizce) (%25 İndirimli)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,225
+83,"Beslenme ve Diyetetik (İngilizce) (Burslu)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,397
+84,"Fizyoterapi ve Rehabilitasyon (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,238
+85,"Fizyoterapi ve Rehabilitasyon (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,374
+86,"Hemşirelik (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,239
+87,"Hemşirelik (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,388
+88,"Hemşirelik (İngilizce) (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,300
+89,"Hemşirelik (İngilizce) (Burslu)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,398
+90,"Sağlık Yönetimi (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,EA,225
+91,"Sağlık Yönetimi (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,EA,334
+92,"Tıp (İngilizce) (%50 İndirimli)",15,"Tıp Fakültesi",İngilizce,SAY,483
+93,"Tıp (İngilizce) (Burslu)",15,"Tıp Fakültesi",İngilizce,SAY,549
+94,"Diş Hekimliği",181,"Diş Hekimliği Fakültesi",Türkçe,SAY,443
+95,Eczacılık,181,"Eczacılık Fakültesi",Türkçe,SAY,425
+96,"Arapça Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,DİL,302
+97,"Fen Bilgisi Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SAY,293
+98,"İlköğretim Matematik Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SAY,291
+99,"Okul Öncesi Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,412
+100,"Özel Eğitim Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,432
+101,"Rehberlik ve Psikolojik Danışmanlık",181,"Eğitim Fakültesi",Türkçe,EA,337
+102,"Sınıf Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,EA,352
+103,"Sosyal Bilgiler Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,356
+104,"Türkçe Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,391
+105,Arkeoloji,181,"Fen-Edebiyat Fakültesi",Türkçe,EA,219
+106,Biyoloji,181,"Fen-Edebiyat Fakültesi",Türkçe,SAY,258
+107,"İngiliz Dili ve Edebiyatı (İngilizce)",181,"Fen-Edebiyat Fakültesi",İngilizce,DİL,336
+108,Matematik,181,"Fen-Edebiyat Fakültesi",Türkçe,SAY,262
+109,"Sanat Tarihi",181,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,255
+110,Sosyoloji,181,"Fen-Edebiyat Fakültesi",Türkçe,EA,244
+111,Tarih,181,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,302
+112,"Türk Dili ve Edebiyatı",181,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,316
+113,İktisat,181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,221
+114,İşletme,181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,232
+115,"İşletme (Besni)",181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,219
+116,"Siyaset Bilimi ve Kamu Yönetimi",181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,222
+117,"İslami İlimler",181,"İslami İlimler Fakültesi",Türkçe,SÖZ,267
+118,"İslami İlimler (M.T.O.K.)",181,"İslami İlimler Fakültesi",Türkçe,SÖZ,254
+119,"Bilgisayar Mühendisliği",181,"Mühendislik Fakültesi",Türkçe,SAY,301
+120,"Elektrik-Elektronik Mühendisliği",181,"Mühendislik Fakültesi",Türkçe,SAY,291
+121,"İnşaat Mühendisliği",181,"Mühendislik Fakültesi",Türkçe,SAY,292
+122,"Tekstil Mühendisliği (Besni)",181,"Mühendislik Fakültesi",Türkçe,SAY,312
+123,Ebelik,181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,308
+124,"Ebelik (Besni)",181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,305
+125,Hemşirelik,181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,338
+126,"Hemşirelik (Besni)",181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,323
+127,Tıp,181,"Tıp Fakültesi",Türkçe,SAY,464
+128,"Gastronomi ve Mutfak Sanatları",181,"Turizm Fakültesi",Türkçe,SÖZ,332
+129,"Turizm Rehberliği",181,"Turizm Fakültesi",Türkçe,DİL,254
+130,"Bitki Koruma",181,"Ziraat Fakültesi (Kahta)",Türkçe,SAY,245
+131,"Bankacılık ve Sigortacılık",135,"Bolvadin Uygulamalı Bilimler Fakültesi",Türkçe,EA,235
+132,"Lojistik Yönetimi",135,"Bolvadin Uygulamalı Bilimler Fakültesi",Türkçe,EA,239
+133,"Muhasebe ve Finans Yönetimi",135,"Bolvadin Uygulamalı Bilimler Fakültesi",Türkçe,EA,238
+134,"Endüstriyel Tasarım",135,"Dinar Uygulamalı Bilimler Yüksekokulu",Türkçe,SAY,255
+135,Sigortacılık,135,"Dinar Uygulamalı Bilimler Yüksekokulu",Türkçe,EA,225
+136,"Fen Bilgisi Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SAY,292
+137,"İlköğretim Matematik Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SAY,302
+138,"İngilizce Öğretmenliği (İngilizce)",135,"Eğitim Fakültesi",İngilizce,DİL,411
+139,"Okul Öncesi Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,411
+140,"Özel Eğitim Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,431
+141,"Rehberlik ve Psikolojik Danışmanlık",135,"Eğitim Fakültesi",Türkçe,EA,348
+142,"Sınıf Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,EA,353
+143,"Sosyal Bilgiler Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,356
+144,"Türkçe Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,394
+145,Coğrafya,135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,303
+146,"Çağdaş Türk Lehçeleri ve Edebiyatları",135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,249
+147,Felsefe,135,"Fen-Edebiyat Fakültesi",Türkçe,EA,229
+148,"İngilizce Mütercim ve Tercümanlık",135,"Fen-Edebiyat Fakültesi",İngilizce,DİL,388
+149,Kimya,135,"Fen-Edebiyat Fakültesi",Türkçe,SAY,272
+150,Matematik,135,"Fen-Edebiyat Fakültesi",Türkçe,SAY,273
+151,"Moleküler Biyoloji ve Genetik",135,"Fen-Edebiyat Fakültesi",Türkçe,SAY,277
+152,Psikoloji,135,"Fen-Edebiyat Fakültesi",Türkçe,EA,356
+153,"Sanat Tarihi",135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,264
+154,Sosyoloji,135,"Fen-Edebiyat Fakültesi",Türkçe,EA,257
+155,Tarih,135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,297
+156,"Türk Dili ve Edebiyatı",135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,327
+157,"İç Mimarlık ve Çevre Tasarımı",135,"Güzel Sanatlar Fakültesi",Türkçe,EA,328
+158,"İç Mimarlık ve Çevre Tasarımı (KKTC Uyruklu)",135,"Güzel Sanatlar Fakültesi",Türkçe,EA,249
+159,"Sinema ve Televizyon",135,"Güzel Sanatlar Fakültesi",Türkçe,SÖZ,278
+160,Hukuk,135,"Hukuk Fakültesi",Türkçe,EA,387
+161,İktisat,135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,245
+162,İşletme,135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,258
+163,"İşletme (İngilizce)",135,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,277
+164,Maliye,135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,255
+165,"Siyaset Bilimi ve Kamu Yönetimi",135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,255
+166,"Uluslararası Ticaret ve Finansman",135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,249
+167,"Yönetim Bilişim Sistemleri",135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,337
+168,İlahiyat,135,"İlahiyat Fakültesi",Türkçe,SÖZ,290
+169,"İlahiyat (M.T.O.K.)",135,"İlahiyat Fakültesi",Türkçe,SÖZ,283
+170,"Bilgisayar Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,355
+171,"Biyomedikal Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,291
+172,"Biyomedikal Mühendisliği (KKTC Uyruklu)",135,"Mühendislik Fakültesi",Türkçe,SAY,NULL
+173,"Elektrik Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,291
+174,"Gıda Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,290
+175,"Harita Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,290
+176,"İnşaat Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,290
+177,"Kimya Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,304
+178,"Maden Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,294
+179,"Yazılım Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,357
+180,"Çocuk Gelişimi",135,"Sandıklı Uygulamalı Bilimler Yüksekokulu",Türkçe,EA,308
+181,"Sosyal Hizmet",135,"Sandıklı Uygulamalı Bilimler Yüksekokulu",Türkçe,EA,259
+182,"Elektrik-Elektronik Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,320
+183,"Elektrik-Elektronik Mühendisliği (M.T.O.K.)",135,"Teknoloji Fakültesi",Türkçe,SAY,290
+184,"Makine Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,302
+185,"Mekatronik Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,305
+186,"Metalurji ve Malzeme Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,296
+187,"Metalurji ve Malzeme Mühendisliği (M.T.O.K.)",135,"Teknoloji Fakültesi",Türkçe,SAY,290
+188,"Otomotiv Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,298
+189,"Gastronomi ve Mutfak Sanatları",135,"Turizm Fakültesi",Türkçe,SÖZ,371
+190,"Turizm İşletmeciliği",135,"Turizm Fakültesi",Türkçe,EA,239
+191,"Turizm Rehberliği",135,"Turizm Fakültesi",Türkçe,DİL,321
+192,Veteriner,135,"Veteriner Fakültesi",Türkçe,SAY,358
+193,"Veteriner (KKTC Uyruklu)",135,"Veteriner Fakültesi",Türkçe,SAY,300
+194,"Psikoloji (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,374
+195,"Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",3,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,319
+196,"Mimarlık (İngilizce)",3,"Mimarlık Fakültesi",İngilizce,SAY,333
+197,"Bilgisayar Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,439
+198,"Bilgisayar Mühendisliği (İngilizce) (KKTC Uyruklu)",3,"Mühendislik Fakültesi",İngilizce,SAY,NULL
+199,"Elektrik-Elektronik Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,406
+200,"Endüstri Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,397
+201,"İnşaat Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,300
+202,"Makine Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,367
+203,"Malzeme Bilimi ve Nanoteknoloji Mühendisliği (İngilizce)",3,"Mühendislik Fakültesi",İngilizce,SAY,351
+204,"Biyomühendislik (İngilizce)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,307
+205,"Moleküler Biyoloji ve Genetik (İngilizce)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,353
+206,"Moleküler Biyoloji ve Genetik (İngilizce) (KKTC Uyruklu)",3,"Yaşam ve Doğa Bilimleri Fakültesi",İngilizce,SAY,282
+207,"Ekonomi (İngilizce)",3,"Yönetim Bilimleri Fakültesi",İngilizce,EA,320
+208,"İşletme (İngilizce)",3,"Yönetim Bilimleri Fakültesi",İngilizce,EA,334
+209,"Eczacılık (İngilizce) (%50 İndirimli)",15,"Eczacılık Fakültesi",İngilizce,SAY,400
+210,"Eczacılık (İngilizce) (Burslu)",15,"Eczacılık Fakültesi",İngilizce,SAY,466
+211,"Eczacılık (İngilizce) (Ücretli)",15,"Eczacılık Fakültesi",İngilizce,SAY,387
+212,"Psikoloji (%25 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,316
+213,"Psikoloji (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,404
+214,"Psikoloji (İngilizce) (%25 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,322
+215,"Psikoloji (İngilizce) (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,411
+216,"Psikoloji (İngilizce) (Ücretli)",15,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,239
+217,"Psikoloji (Ücretli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,230
+218,"Sosyoloji (%50 İndirimli)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,196
+219,"Sosyoloji (Burslu)",15,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,337
+220,"Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,292
+221,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,469
+222,"Biyomedikal Mühendisliği (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,294
+223,"Biyomedikal Mühendisliği (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,396
+224,"Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,268
+225,"Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)",15,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,449
+226,"Beslenme ve Diyetetik (%25 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,245
+227,"Beslenme ve Diyetetik (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,393
+228,"Beslenme ve Diyetetik (İngilizce) (%25 İndirimli)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,225
+229,"Beslenme ve Diyetetik (İngilizce) (Burslu)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,397
+230,"Fizyoterapi ve Rehabilitasyon (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,238
+231,"Fizyoterapi ve Rehabilitasyon (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,374
+232,"Hemşirelik (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,239
+233,"Hemşirelik (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,388
+234,"Hemşirelik (İngilizce) (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,300
+235,"Hemşirelik (İngilizce) (Burslu)",15,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,398
+236,"Sağlık Yönetimi (%50 İndirimli)",15,"Sağlık Bilimleri Fakültesi",Türkçe,EA,225
+237,"Sağlık Yönetimi (Burslu)",15,"Sağlık Bilimleri Fakültesi",Türkçe,EA,334
+238,"Tıp (İngilizce) (%50 İndirimli)",15,"Tıp Fakültesi",İngilizce,SAY,483
+239,"Tıp (İngilizce) (Burslu)",15,"Tıp Fakültesi",İngilizce,SAY,549
+240,"Diş Hekimliği",181,"Diş Hekimliği Fakültesi",Türkçe,SAY,443
+241,Eczacılık,181,"Eczacılık Fakültesi",Türkçe,SAY,425
+242,"Arapça Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,DİL,302
+243,"Fen Bilgisi Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SAY,293
+244,"İlköğretim Matematik Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SAY,291
+245,"Okul Öncesi Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,412
+246,"Özel Eğitim Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,432
+247,"Rehberlik ve Psikolojik Danışmanlık",181,"Eğitim Fakültesi",Türkçe,EA,337
+248,"Sınıf Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,EA,352
+249,"Sosyal Bilgiler Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,356
+250,"Türkçe Öğretmenliği",181,"Eğitim Fakültesi",Türkçe,SÖZ,391
+251,Arkeoloji,181,"Fen-Edebiyat Fakültesi",Türkçe,EA,219
+252,Biyoloji,181,"Fen-Edebiyat Fakültesi",Türkçe,SAY,258
+253,"İngiliz Dili ve Edebiyatı (İngilizce)",181,"Fen-Edebiyat Fakültesi",İngilizce,DİL,336
+254,Matematik,181,"Fen-Edebiyat Fakültesi",Türkçe,SAY,262
+255,"Sanat Tarihi",181,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,255
+256,Sosyoloji,181,"Fen-Edebiyat Fakültesi",Türkçe,EA,244
+257,Tarih,181,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,302
+258,"Türk Dili ve Edebiyatı",181,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,316
+259,İktisat,181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,221
+260,İşletme,181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,232
+261,"İşletme (Besni)",181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,219
+262,"Siyaset Bilimi ve Kamu Yönetimi",181,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,222
+263,"İslami İlimler",181,"İslami İlimler Fakültesi",Türkçe,SÖZ,267
+264,"İslami İlimler (M.T.O.K.)",181,"İslami İlimler Fakültesi",Türkçe,SÖZ,254
+265,"Bilgisayar Mühendisliği",181,"Mühendislik Fakültesi",Türkçe,SAY,301
+266,"Elektrik-Elektronik Mühendisliği",181,"Mühendislik Fakültesi",Türkçe,SAY,291
+267,"İnşaat Mühendisliği",181,"Mühendislik Fakültesi",Türkçe,SAY,292
+268,"Tekstil Mühendisliği (Besni)",181,"Mühendislik Fakültesi",Türkçe,SAY,312
+269,Ebelik,181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,308
+270,"Ebelik (Besni)",181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,305
+271,Hemşirelik,181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,338
+272,"Hemşirelik (Besni)",181,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,323
+273,Tıp,181,"Tıp Fakültesi",Türkçe,SAY,464
+274,"Gastronomi ve Mutfak Sanatları",181,"Turizm Fakültesi",Türkçe,SÖZ,332
+275,"Turizm Rehberliği",181,"Turizm Fakültesi",Türkçe,DİL,254
+276,"Bitki Koruma",181,"Ziraat Fakültesi (Kahta)",Türkçe,SAY,245
+277,"Bankacılık ve Sigortacılık",135,"Bolvadin Uygulamalı Bilimler Fakültesi",Türkçe,EA,235
+278,"Lojistik Yönetimi",135,"Bolvadin Uygulamalı Bilimler Fakültesi",Türkçe,EA,239
+279,"Muhasebe ve Finans Yönetimi",135,"Bolvadin Uygulamalı Bilimler Fakültesi",Türkçe,EA,238
+280,"Endüstriyel Tasarım",135,"Dinar Uygulamalı Bilimler Yüksekokulu",Türkçe,SAY,255
+281,Sigortacılık,135,"Dinar Uygulamalı Bilimler Yüksekokulu",Türkçe,EA,225
+282,"Fen Bilgisi Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SAY,292
+283,"İlköğretim Matematik Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SAY,302
+284,"İngilizce Öğretmenliği (İngilizce)",135,"Eğitim Fakültesi",İngilizce,DİL,411
+285,"Okul Öncesi Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,411
+286,"Özel Eğitim Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,431
+287,"Rehberlik ve Psikolojik Danışmanlık",135,"Eğitim Fakültesi",Türkçe,EA,348
+288,"Sınıf Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,EA,353
+289,"Sosyal Bilgiler Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,356
+290,"Türkçe Öğretmenliği",135,"Eğitim Fakültesi",Türkçe,SÖZ,394
+291,Coğrafya,135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,303
+292,"Çağdaş Türk Lehçeleri ve Edebiyatları",135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,249
+293,Felsefe,135,"Fen-Edebiyat Fakültesi",Türkçe,EA,229
+294,"İngilizce Mütercim ve Tercümanlık",135,"Fen-Edebiyat Fakültesi",İngilizce,DİL,388
+295,Kimya,135,"Fen-Edebiyat Fakültesi",Türkçe,SAY,272
+296,Matematik,135,"Fen-Edebiyat Fakültesi",Türkçe,SAY,273
+297,"Moleküler Biyoloji ve Genetik",135,"Fen-Edebiyat Fakültesi",Türkçe,SAY,277
+298,Psikoloji,135,"Fen-Edebiyat Fakültesi",Türkçe,EA,356
+299,"Sanat Tarihi",135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,264
+300,Sosyoloji,135,"Fen-Edebiyat Fakültesi",Türkçe,EA,257
+301,Tarih,135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,297
+302,"Türk Dili ve Edebiyatı",135,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,327
+303,"İç Mimarlık ve Çevre Tasarımı",135,"Güzel Sanatlar Fakültesi",Türkçe,EA,328
+304,"İç Mimarlık ve Çevre Tasarımı (KKTC Uyruklu)",135,"Güzel Sanatlar Fakültesi",Türkçe,EA,249
+305,"Sinema ve Televizyon",135,"Güzel Sanatlar Fakültesi",Türkçe,SÖZ,278
+306,Hukuk,135,"Hukuk Fakültesi",Türkçe,EA,387
+307,İktisat,135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,245
+308,İşletme,135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,258
+309,"İşletme (İngilizce)",135,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,277
+310,Maliye,135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,255
+311,"Siyaset Bilimi ve Kamu Yönetimi",135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,255
+312,"Uluslararası Ticaret ve Finansman",135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,249
+313,"Yönetim Bilişim Sistemleri",135,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,337
+314,İlahiyat,135,"İlahiyat Fakültesi",Türkçe,SÖZ,290
+315,"İlahiyat (M.T.O.K.)",135,"İlahiyat Fakültesi",Türkçe,SÖZ,283
+316,"Bilgisayar Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,355
+317,"Biyomedikal Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,291
+318,"Biyomedikal Mühendisliği (KKTC Uyruklu)",135,"Mühendislik Fakültesi",Türkçe,SAY,NULL
+319,"Elektrik Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,291
+320,"Gıda Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,290
+321,"Harita Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,290
+322,"İnşaat Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,290
+323,"Kimya Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,304
+324,"Maden Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,294
+325,"Yazılım Mühendisliği",135,"Mühendislik Fakültesi",Türkçe,SAY,357
+326,"Çocuk Gelişimi",135,"Sandıklı Uygulamalı Bilimler Yüksekokulu",Türkçe,EA,308
+327,"Sosyal Hizmet",135,"Sandıklı Uygulamalı Bilimler Yüksekokulu",Türkçe,EA,259
+328,"Elektrik-Elektronik Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,320
+329,"Elektrik-Elektronik Mühendisliği (M.T.O.K.)",135,"Teknoloji Fakültesi",Türkçe,SAY,290
+330,"Makine Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,302
+331,"Mekatronik Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,305
+332,"Metalurji ve Malzeme Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,296
+333,"Metalurji ve Malzeme Mühendisliği (M.T.O.K.)",135,"Teknoloji Fakültesi",Türkçe,SAY,290
+334,"Otomotiv Mühendisliği",135,"Teknoloji Fakültesi",Türkçe,SAY,298
+335,"Gastronomi ve Mutfak Sanatları",135,"Turizm Fakültesi",Türkçe,SÖZ,371
+336,"Turizm İşletmeciliği",135,"Turizm Fakültesi",Türkçe,EA,239
+337,"Turizm Rehberliği",135,"Turizm Fakültesi",Türkçe,DİL,321
+338,Veteriner,135,"Veteriner Fakültesi",Türkçe,SAY,358
+339,"Veteriner (KKTC Uyruklu)",135,"Veteriner Fakültesi",Türkçe,SAY,300
+340,"Hayvansal Üretim ve Teknolojileri",161,"Celal Oruç Hayvansal Üretim Yüksekokulu (Eleşkirt)",Türkçe,SAY,208
+341,"Hayvansal Üretim ve Teknolojileri (KKTC UYRUKLU)",161,"Celal Oruç Hayvansal Üretim Yüksekokulu (Eleşkirt)",Türkçe,SAY,NULL
+342,Eczacılık,161,"Eczacılık Fakültesi",Türkçe,SAY,423
+343,"Fen Bilgisi Öğretmenliği",161,"Eğitim Fakültesi",Türkçe,SAY,299
+344,"İlköğretim Matematik Öğretmenliği",161,"Eğitim Fakültesi",Türkçe,SAY,293
+345,"Okul Öncesi Öğretmenliği",161,"Eğitim Fakültesi",Türkçe,SÖZ,405
+346,"Rehberlik ve Psikolojik Danışmanlık",161,"Eğitim Fakültesi",Türkçe,EA,331
+347,"Sınıf Öğretmenliği",161,"Eğitim Fakültesi",Türkçe,EA,344
+348,"Sosyal Bilgiler Öğretmenliği",161,"Eğitim Fakültesi",Türkçe,SÖZ,347
+349,"Türkçe Öğretmenliği",161,"Eğitim Fakültesi",Türkçe,SÖZ,384
+350,Coğrafya,161,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,261
+351,"İngiliz Dili ve Edebiyatı (İngilizce)",161,"Fen-Edebiyat Fakültesi",İngilizce,DİL,314
+352,"İngilizce Mütercim ve Tercümanlık",161,"Fen-Edebiyat Fakültesi",İngilizce,DİL,304
+353,Matematik,161,"Fen-Edebiyat Fakültesi",Türkçe,SAY,243
+354,"Moleküler Biyoloji ve Genetik",161,"Fen-Edebiyat Fakültesi",Türkçe,SAY,244
+355,Psikoloji,161,"Fen-Edebiyat Fakültesi",Türkçe,EA,334
+356,"Rus Dili ve Edebiyatı",161,"Fen-Edebiyat Fakültesi",Türkçe,DİL,206
+357,Sosyoloji,161,"Fen-Edebiyat Fakültesi",Türkçe,EA,220
+358,Tarih,161,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,259
+359,"Türk Dili ve Edebiyatı",161,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,281
+360,"Halkla İlişkiler ve Reklamcılık",161,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,SÖZ,244
+361,İşletme,161,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,222
+362,"Siyaset Bilimi ve Kamu Yönetimi",161,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,219
+363,"İslami İlimler",161,"İslami İlimler Fakültesi",Türkçe,SÖZ,250
+364,"İslami İlimler (M.T.O.K.)",161,"İslami İlimler Fakültesi",Türkçe,SÖZ,246
+365,"Sosyal Hizmet",161,"Patnos Sosyal Hizmetler Yüksekokulu",Türkçe,EA,231
+366,"Beslenme ve Diyetetik",161,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,265
+367,Ebelik,161,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,305
+368,Hemşirelik,161,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,322
+369,Tıp,161,"Tıp Fakültesi",Türkçe,SAY,464
+370,"Gastronomi ve Mutfak Sanatları",161,"Turizm İşletmeciliği ve Otelcilik Yüksekokulu",Türkçe,SÖZ,330
+371,"Diş Hekimliği",20,"Diş Hekimliği Fakültesi",Türkçe,SAY,463
+372,"Alman Dili ve Edebiyatı",20,"Edebiyat Fakültesi",Türkçe,DİL,396
+373,Arkeoloji,20,"Edebiyat Fakültesi",Türkçe,EA,290
+374,Coğrafya,20,"Edebiyat Fakültesi",Türkçe,SÖZ,357
+375,"Eski Yunan Dili ve Edebiyatı",20,"Edebiyat Fakültesi",Türkçe,DİL,321
+376,Felsefe,20,"Edebiyat Fakültesi",Türkçe,EA,278
+377,"İngiliz Dili ve Edebiyatı (İngilizce)",20,"Edebiyat Fakültesi",İngilizce,DİL,434
+378,"Latin Dili ve Edebiyatı",20,"Edebiyat Fakültesi",Türkçe,DİL,347
+379,Psikoloji,20,"Edebiyat Fakültesi",Türkçe,EA,384
+380,"Rus Dili ve Edebiyatı",20,"Edebiyat Fakültesi",Türkçe,DİL,391
+381,"Rus Dili ve Edebiyatı (KKTC Uyruklu)",20,"Edebiyat Fakültesi",Türkçe,DİL,NULL
+382,"Sanat Tarihi",20,"Edebiyat Fakültesi",Türkçe,SÖZ,345
+383,Sosyoloji,20,"Edebiyat Fakültesi",Türkçe,EA,308
+384,Tarih,20,"Edebiyat Fakültesi",Türkçe,SÖZ,380
+385,"Türk Dili ve Edebiyatı",20,"Edebiyat Fakültesi",Türkçe,SÖZ,381
+386,"Fen Bilgisi Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,SAY,291
+387,"İlköğretim Matematik Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,SAY,361
+388,"İngilizce Öğretmenliği",20,"Eğitim Fakültesi",İngilizce,DİL,451
+389,"Okul Öncesi Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,SÖZ,423
+390,"Özel Eğitim Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,SÖZ,442
+391,"Rehberlik ve Psikolojik Danışmanlık",20,"Eğitim Fakültesi",Türkçe,EA,366
+392,"Sınıf Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,EA,374
+393,"Sınıf Öğretmenliği (KKTC UYRUKLU)",20,"Eğitim Fakültesi",Türkçe,EA,341
+394,"Sosyal Bilgiler Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,SÖZ,386
+395,"Türkçe Öğretmenliği",20,"Eğitim Fakültesi",Türkçe,SÖZ,410
+396,Biyoloji,20,"Fen Fakültesi",Türkçe,SAY,291
+397,Fizik,20,"Fen Fakültesi",Türkçe,SAY,287
+398,"Fizik (KKTC Uyruklu)",20,"Fen Fakültesi",Türkçe,SAY,261
+399,Kimya,20,"Fen Fakültesi",Türkçe,SAY,316
+400,"Kimya (KKTC Uyruklu)",20,"Fen Fakültesi",Türkçe,SAY,275
+401,Matematik,20,"Fen Fakültesi",Türkçe,SAY,326
+402,"Uzay Bilimleri ve Teknolojileri",20,"Fen Fakültesi",Türkçe,SAY,292
+403,"Sinema ve Televizyon",20,"Güzel Sanatlar Fakültesi",Türkçe,SÖZ,355
+404,Hemşirelik,20,"Hemşirelik Fakültesi",Türkçe,SAY,369
+405,Hukuk,20,"Hukuk Fakültesi",Türkçe,EA,414
+406,"Çalışma Ekonomisi ve Endüstri İlişkileri",20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,290
+407,Ekonometri,20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,284
+408,İktisat,20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,313
+409,İşletme,20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,322
+410,Maliye,20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,304
+411,"Siyaset Bilimi ve Kamu Yönetimi",20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,315
+412,"Uluslararası İlişkiler",20,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,328
+413,İlahiyat,20,"İlahiyat Fakültesi",Türkçe,SÖZ,332
+414,"İlahiyat (M.T.O.K.)",20,"İlahiyat Fakültesi",Türkçe,SÖZ,310
+415,Gazetecilik,20,"İletişim Fakültesi",Türkçe,SÖZ,338
+416,"Halkla İlişkiler ve Tanıtım",20,"İletişim Fakültesi",Türkçe,SÖZ,351
+417,"Radyo, Televizyon ve Sinema",20,"İletişim Fakültesi",Türkçe,SÖZ,363
+418,Reklamcılık,20,"İletişim Fakültesi",Türkçe,SÖZ,349
+419,"Denizcilik İşletmeleri Yönetimi",20,"Kemer Denizcilik Fakültesi",Türkçe,EA,315
+420,"Çocuk Gelişimi",20,"Kumluca Sağlık Bilimleri Fakültesi",Türkçe,EA,324
+421,Hemşirelik,20,"Kumluca Sağlık Bilimleri Fakültesi",Türkçe,SAY,339
+422,"Sosyal Hizmet",20,"Manavgat Sosyal ve Beşeri Bilimler Fakültesi",Türkçe,EA,294
+423,"Yönetim Bilişim Sistemleri",20,"Manavgat Sosyal ve Beşeri Bilimler Fakültesi",Türkçe,EA,353
+424,"Gastronomi ve Mutfak Sanatları",20,"Manavgat Turizm Fakültesi",Türkçe,SÖZ,396
+425,"Rekreasyon Yönetimi",20,"Manavgat Turizm Fakültesi",Türkçe,SÖZ,300
+426,"Turizm İşletmeciliği",20,"Manavgat Turizm Fakültesi",Türkçe,EA,283
+427,"Turizm Rehberliği",20,"Manavgat Turizm Fakültesi",Türkçe,DİL,371
+428,"İç Mimarlık",20,"Mimarlık Fakültesi",Türkçe,SAY,321
+429,Mimarlık,20,"Mimarlık Fakültesi",Türkçe,SAY,372
+430,"Peyzaj Mimarlığı",20,"Mimarlık Fakültesi",Türkçe,SAY,282
+431,"Şehir ve Bölge Planlama",20,"Mimarlık Fakültesi",Türkçe,SAY,281
+432,"Bilgisayar Mühendisliği (İngilizce)",20,"Mühendislik Fakültesi",İngilizce,SAY,456
+433,"Bilgisayar Mühendisliği (İngilizce) (KKTC Uyruklu)",20,"Mühendislik Fakültesi",İngilizce,SAY,343
+434,"Çevre Mühendisliği",20,"Mühendislik Fakültesi",Türkçe,SAY,291
+435,"Elektrik-Elektronik Mühendisliği",20,"Mühendislik Fakültesi",Türkçe,SAY,412
+436,"Elektrik-Elektronik Mühendisliği (KKTC Uyruklu)",20,"Mühendislik Fakültesi",Türkçe,SAY,303
+437,"Gıda Mühendisliği",20,"Mühendislik Fakültesi",Türkçe,SAY,315
+438,"İnşaat Mühendisliği",20,"Mühendislik Fakültesi",Türkçe,SAY,338
+439,"Jeoloji Mühendisliği",20,"Mühendislik Fakültesi",Türkçe,SAY,291
+440,"Makine Mühendisliği",20,"Mühendislik Fakültesi",Türkçe,SAY,380
+441,"Yapay Zeka ve Veri Mühendisliği (İngilizce)",20,"Mühendislik Fakültesi",İngilizce,SAY,454
+442,"Beslenme ve Diyetetik",20,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,341
+443,"Fizyoterapi ve Rehabilitasyon",20,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,316
+444,Gerontoloji,20,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,270
+445,"Ekonomi ve Finans",20,"Serik İşletme Fakültesi",Türkçe,EA,274
+446,"Turizm İşletmeciliği",20,"Serik İşletme Fakültesi",Türkçe,EA,274
+447,"Su Ürünleri Mühendisliği",20,"Su Ürünleri Fakültesi",Türkçe,SAY,256
+448,Tıp,20,"Tıp Fakültesi",Türkçe,SAY,505
+449,"Gastronomi ve Mutfak Sanatları",20,"Turizm Fakültesi",Türkçe,SÖZ,428
+450,"Rekreasyon Yönetimi",20,"Turizm Fakültesi",Türkçe,SÖZ,330
+451,"Turizm İşletmeciliği",20,"Turizm Fakültesi",Türkçe,EA,301
+452,"Turizm İşletmeciliği (İngilizce)",20,"Turizm Fakültesi",İngilizce,EA,323
+453,"Turizm Rehberliği",20,"Turizm Fakültesi",Türkçe,DİL,403
+454,"Finans ve Bankacılık",20,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,303
+455,"Finans ve Bankacılık (KKTC Uyruklu)",20,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,230
+456,Pazarlama,20,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,280
+457,Sigortacılık,20,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,276
+458,"Uluslararası Ticaret ve Lojistik",20,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,335
+459,"Yönetim Bilişim Sistemleri",20,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,380
+460,"Bahçe Bitkileri",20,"Ziraat Fakültesi",Türkçe,SAY,291
+461,"Bitki Koruma",20,"Ziraat Fakültesi",Türkçe,SAY,318
+462,"Tarım Ekonomisi",20,"Ziraat Fakültesi",Türkçe,EA,300
+463,"Tarım Ekonomisi (KKTC Uyruklu)",20,"Ziraat Fakültesi",Türkçe,EA,216
+464,"Tarım Makineleri ve Teknolojileri Mühendisliği",20,"Ziraat Fakültesi",Türkçe,SAY,279
+465,"Tarımsal Biyoteknoloji",20,"Ziraat Fakültesi",Türkçe,SAY,269
+466,"Tarımsal Yapılar ve Sulama",20,"Ziraat Fakültesi",Türkçe,SAY,259
+467,"Tarla Bitkileri",20,"Ziraat Fakültesi",Türkçe,SAY,278
+468,"Toprak Bilimi ve Bitki Besleme",20,"Ziraat Fakültesi",Türkçe,SAY,273
+469,Zootekni,20,"Ziraat Fakültesi",Türkçe,SAY,255
+470,"Diş Hekimliği",173,"Diş Hekimliği Fakültesi",Türkçe,SAY,444
+471,"Fen Bilgisi Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,SAY,292
+472,"İlköğretim Matematik Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,SAY,295
+473,"İngilizce Öğretmenliği (İngilizce)",173,"Eğitim Fakültesi",İngilizce,DİL,407
+474,"Okul Öncesi Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,SÖZ,407
+475,"Özel Eğitim Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,SÖZ,428
+476,"Rehberlik ve Psikolojik Danışmanlık",173,"Eğitim Fakültesi",Türkçe,EA,340
+477,"Sınıf Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,EA,351
+478,"Sosyal Bilgiler Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,SÖZ,350
+479,"Türkçe Öğretmenliği",173,"Eğitim Fakültesi",Türkçe,SÖZ,388
+480,Arkeoloji,173,"Fen-Edebiyat Fakültesi",Türkçe,EA,229
+481,Biyoloji,173,"Fen-Edebiyat Fakültesi",Türkçe,SAY,248
+482,Felsefe,173,"Fen-Edebiyat Fakültesi",Türkçe,EA,228
+483,"İngiliz Dili ve Edebiyatı (İngilizce)",173,"Fen-Edebiyat Fakültesi",İngilizce,DİL,361
+484,Matematik,173,"Fen-Edebiyat Fakültesi",Türkçe,SAY,258
+485,"Moleküler Biyoloji ve Genetik",173,"Fen-Edebiyat Fakültesi",Türkçe,SAY,259
+486,Sosyoloji,173,"Fen-Edebiyat Fakültesi",Türkçe,EA,234
+487,Tarih,173,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,288
+488,"Türk Dili ve Edebiyatı",173,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,306
+489,İktisat,173,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,237
+490,İşletme,173,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,246
+491,Maliye,173,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,241
+492,"Siyaset Bilimi ve Kamu Yönetimi",173,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,230
+493,"Uluslararası İlişkiler",173,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,246
+494,"Yönetim Bilişim Sistemleri",173,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,323
+495,Gazetecilik,173,"İletişim Fakültesi",Türkçe,SÖZ,248
+496,"Halkla İlişkiler ve Reklamcılık",173,"İletişim Fakültesi",Türkçe,SÖZ,257
+497,"İslami İlimler",173,"İslami İlimler Fakültesi",Türkçe,SÖZ,273
+498,"İslami İlimler (M.T.O.K.)",173,"İslami İlimler Fakültesi",Türkçe,SÖZ,272
+499,Mimarlık,173,"Mimarlık ve Tasarım Fakültesi",Türkçe,SAY,306
+500,"Elektrik-Elektronik Mühendisliği",173,"Mühendislik Fakültesi",Türkçe,SAY,291
+501,"Endüstri Mühendisliği",173,"Mühendislik Fakültesi",Türkçe,SAY,304
+502,"İnşaat Mühendisliği",173,"Mühendislik Fakültesi",Türkçe,SAY,293
+503,"Makine Mühendisliği",173,"Mühendislik Fakültesi",Türkçe,SAY,290
+504,"Yazılım Mühendisliği",173,"Mühendislik Fakültesi",Türkçe,SAY,341
+505,"Acil Yardım ve Afet Yönetimi",173,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,251
+506,Hemşirelik,173,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,330
+507,"Sağlık Yönetimi",173,"Sağlık Bilimleri Fakültesi",Türkçe,EA,262
+508,Tıp,173,"Tıp Fakültesi",Türkçe,SAY,469
+509,"Turizm Rehberliği",173,"Turizm Fakültesi",Türkçe,DİL,297
+510,Veteriner,173,"Veteriner Fakültesi",Türkçe,SAY,345
+511,"Diş Hekimliği",176,"Diş Hekimliği Fakültesi",Türkçe,SAY,450
+512,"Fen Bilgisi Öğretmenliği",176,"Eğitim Fakültesi",Türkçe,SAY,293
+513,"İlköğretim Matematik Öğretmenliği",176,"Eğitim Fakültesi",Türkçe,SAY,293
+514,"İngilizce Öğretmenliği",176,"Eğitim Fakültesi",İngilizce,DİL,424
+515,"Okul Öncesi Öğretmenliği",176,"Eğitim Fakültesi",Türkçe,SÖZ,413
+516,"Rehberlik ve Psikolojik Danışmanlık",176,"Eğitim Fakültesi",Türkçe,EA,350
+517,"Sınıf Öğretmenliği",176,"Eğitim Fakültesi",Türkçe,EA,357
+518,"Sınıf Öğretmenliği (KKTC UYRUKLU)",176,"Eğitim Fakültesi",Türkçe,EA,NULL
+519,"Türkçe Öğretmenliği",176,"Eğitim Fakültesi",Türkçe,SÖZ,397
+520,"Havacılık Yönetimi",176,"Gazipaşa Havacılık ve Uzay Bilimleri Fakültesi",Türkçe,EA,317
+521,İktisat,176,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,268
+522,"İnsan Kaynakları Yönetimi",176,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,261
+523,İşletme,176,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,274
+524,Maliye,176,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,273
+525,"Uluslararası Ticaret",176,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,275
+526,"Bilgisayar Mühendisliği (İngilizce)",176,"Rafet Kayış Mühendislik Fakültesi",İngilizce,SAY,397
+527,"Biyosistem Mühendisliği",176,"Rafet Kayış Mühendislik Fakültesi",Türkçe,SAY,262
+528,"Elektrik-Elektronik Mühendisliği (İngilizce)",176,"Rafet Kayış Mühendislik Fakültesi",İngilizce,SAY,342
+529,"Endüstri Mühendisliği",176,"Rafet Kayış Mühendislik Fakültesi",Türkçe,SAY,337
+530,"Genetik ve Biyomühendislik (İngilizce)",176,"Rafet Kayış Mühendislik Fakültesi",İngilizce,SAY,301
+531,"Genetik ve Biyomühendislik (İngilizce)KKTC Uyruklu",176,"Rafet Kayış Mühendislik Fakültesi",İngilizce,SAY,NULL
+532,"Gıda Mühendisliği (İngilizce)",176,"Rafet Kayış Mühendislik Fakültesi",İngilizce,SAY,295
+533,"İnşaat Mühendisliği",176,"Rafet Kayış Mühendislik Fakültesi",Türkçe,SAY,294
+534,"Makine Mühendisliği (İngilizce)",176,"Rafet Kayış Mühendislik Fakültesi",İngilizce,SAY,321
+535,"Beslenme ve Diyetetik",176,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,301
+536,"Çocuk Gelişimi",176,"Sağlık Bilimleri Fakültesi",Türkçe,EA,321
+537,"Fizyoterapi ve Rehabilitasyon",176,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,291
+538,Hemşirelik,176,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,343
+539,Mimarlık,176,"Sanat, Tasarım ve Mimarlık Fakültesi",Türkçe,SAY,314
+540,Tıp,176,"Tıp Fakültesi",Türkçe,SAY,476
+541,"Gastronomi ve Mutfak Sanatları",176,"Turizm Fakültesi",Türkçe,SÖZ,387
+542,"Turizm İşletmeciliği",176,"Turizm Fakültesi",Türkçe,EA,268
+543,"İşletme (%50 İndirimli)",154,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,198
+544,"İşletme (Burslu)",154,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,265
+545,"İşletme (İngilizce) (%50 İndirimli)",154,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,197
+546,"İşletme (İngilizce) (Burslu)",154,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,294
+547,"Turizm İşletmeciliği (İngilizce) (%50 İndirimli)",154,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,205
+548,"Turizm İşletmeciliği (İngilizce) (Burslu)",154,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,281
+549,"Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",154,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,291
+550,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",154,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,389
+551,"İç Mimarlık ve Çevre Tasarımı (%50 İndirimli)",154,"Mühendislik ve Doğa Bilimleri Fakültesi",Türkçe,EA,244
+552,"İç Mimarlık ve Çevre Tasarımı (Burslu)",154,"Mühendislik ve Doğa Bilimleri Fakültesi",Türkçe,EA,329
+553,"Mimarlık (İngilizce) (%50 İndirimli)",154,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,NULL
+554,"Mimarlık (İngilizce) (Burslu)",154,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,306
+555,"Fizyoterapi ve Rehabilitasyon (%50 İndirimli)",154,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,229
+556,"Fizyoterapi ve Rehabilitasyon (Burslu)",154,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,289
+557,"Çizgi Film ve Animasyon (%50 İndirimli)",154,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,167
+558,"Çizgi Film ve Animasyon (Burslu)",154,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,362
+559,"Gastronomi ve Mutfak Sanatları (%50 İndirimli)",154,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,280
+560,"Gastronomi ve Mutfak Sanatları (Burslu)",154,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,392
+561,"Gastronomi ve Mutfak Sanatları (İngilizce) (%50 İndirimli)",154,"Sanat ve Tasarım Fakültesi",İngilizce,SÖZ,241
+562,"Gastronomi ve Mutfak Sanatları (İngilizce) (Burslu)",154,"Sanat ve Tasarım Fakültesi",İngilizce,SÖZ,404
+563,"İletişim ve Tasarımı (İngilizce) (%50 İndirimli)",154,"Sanat ve Tasarım Fakültesi",İngilizce,SÖZ,165
+564,"İletişim ve Tasarımı (İngilizce) (Burslu)",154,"Sanat ve Tasarım Fakültesi",İngilizce,SÖZ,351
+565,"Diş Hekimliği (%25 İndirimli)",27,"Diş Hekimliği Fakültesi",Türkçe,SAY,403
+566,"Diş Hekimliği (Burslu)",27,"Diş Hekimliği Fakültesi",Türkçe,SAY,452
+567,"Eczacılık (İngilizce) (%25 İndirimli)",27,"Eczacılık Fakültesi",İngilizce,SAY,387
+568,"Eczacılık (İngilizce) (Burslu)",27,"Eczacılık Fakültesi",İngilizce,SAY,432
+569,"Hukuk (%50 İndirimli)",27,"Hukuk Fakültesi",Türkçe,EA,351
+570,"Hukuk (Burslu)",27,"Hukuk Fakültesi",Türkçe,EA,396
+571,"Hukuk (UOLP-Köln Üniversitesi) (%50 İndirimli)",27,"Hukuk Fakültesi",Türkçe,EA,356
+572,"Hukuk (UOLP-Köln Üniversitesi) (Burslu)",27,"Hukuk Fakültesi",Türkçe,EA,457
+573,"Ekonomi (İngilizce) (%50 İndirimli)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,219
+574,"Ekonomi (İngilizce) (Burslu)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,325
+575,"Psikoloji (İngilizce) (%50 İndirimli)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,240
+576,"Psikoloji (İngilizce) (Burslu)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,362
+577,"Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (%50 İndirimli)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,288
+578,"Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Burslu)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,319
+579,"Sosyoloji (İngilizce) (%50 İndirimli)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,174
+580,"Sosyoloji (İngilizce) (Burslu)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,301
+581,"Uluslararası İlişkiler (İngilizce) (Burslu)",27,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,319
+582,"Radyo, Televizyon ve Sinema (%50 İndirimli)",27,"İletişim Fakültesi",Türkçe,SÖZ,232
+583,"Radyo, Televizyon ve Sinema (Burslu)",27,"İletişim Fakültesi",Türkçe,SÖZ,369
+584,"İşletme (İngilizce) (%50 İndirimli)",27,"İşletme Fakültesi",İngilizce,EA,218
+585,"İşletme (İngilizce) (Burslu)",27,"İşletme Fakültesi",İngilizce,EA,333
+586,"Lojistik Yönetimi (İngilizce) (%50 İndirimli)",27,"İşletme Fakültesi",İngilizce,EA,180
+587,"Lojistik Yönetimi (İngilizce) (Burslu)",27,"İşletme Fakültesi",İngilizce,EA,325
+588,"Pazarlama (İngilizce) (%50 İndirimli)",27,"İşletme Fakültesi",İngilizce,EA,181
+589,"Pazarlama (İngilizce) (Burslu)",27,"İşletme Fakültesi",İngilizce,EA,309
+590,"Uluslararası Ticaret ve Finansman (İngilizce) (%50 İndirimli)",27,"İşletme Fakültesi",İngilizce,EA,188
+591,"Uluslararası Ticaret ve Finansman (İngilizce) (Burslu)",27,"İşletme Fakültesi",İngilizce,EA,331
+592,"Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,291
+593,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,406
+594,"Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,318
+595,"Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,384
+596,"Endüstri Mühendisliği (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,293
+597,"Endüstri Mühendisliği (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,401
+598,"İç Mimarlık ve Çevre Tasarımı (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",Türkçe,EA,237
+599,"İç Mimarlık ve Çevre Tasarımı (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",Türkçe,EA,338
+600,"İç Mimarlık ve Çevre Tasarımı (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,EA,223
+601,"İç Mimarlık ve Çevre Tasarımı (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,EA,338
+602,"İnşaat Mühendisliği (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,NULL
+603,"İnşaat Mühendisliği (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,327
+604,"Makine Mühendisliği (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,296
+605,"Makine Mühendisliği (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,372
+606,"Mimarlık (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,344
+607,"Mimarlık (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,352
+608,"Yazılım Mühendisliği (İngilizce) (%50 İndirimli)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,291
+609,"Yazılım Mühendisliği (İngilizce) (Burslu)",27,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,352
+610,"Tıp (İngilizce) (%50 İndirimli)",27,"Tıp Fakültesi",İngilizce,SAY,435
+611,"Tıp (İngilizce) (Burslu)",27,"Tıp Fakültesi",İngilizce,SAY,480
+612,"Gastronomi ve Mutfak Sanatları (%50 İndirimli)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,SÖZ,223
+613,"Gastronomi ve Mutfak Sanatları (Burslu)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,SÖZ,412
+614,"Sağlık Yönetimi (%50 İndirimli)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,190
+615,"Sağlık Yönetimi (Burslu)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,297
+616,"Takı Tasarımı (%50 İndirimli)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,222
+617,"Takı Tasarımı (Burslu)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,297
+618,"Yönetim Bilişim Sistemleri (%50 İndirimli)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,192
+619,"Yönetim Bilişim Sistemleri (Burslu)",27,"Uygulamalı Bilimler Fakültesi",Türkçe,EA,373
+620,"Beden Eğitimi ve Spor Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,EA,310
+621,"Fen Bilgisi Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,SAY,345
+622,"İlköğretim Matematik Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,SAY,291
+623,"İngilizce Öğretmenliği",138,"Eğitim Fakültesi",İngilizce,DİL,409
+624,"Okul Öncesi Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,SÖZ,408
+625,"Rehberlik ve Psikolojik Danışmanlık",138,"Eğitim Fakültesi",Türkçe,EA,341
+626,"Sınıf Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,EA,352
+627,"Sosyal Bilgiler Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,SÖZ,354
+628,"Türkçe Öğretmenliği",138,"Eğitim Fakültesi",Türkçe,SÖZ,390
+629,"İngilizce Mütercim ve Tercümanlık",138,"Fen-Edebiyat Fakültesi",İngilizce,DİL,377
+630,Matematik,138,"Fen-Edebiyat Fakültesi",Türkçe,SAY,268
+631,Tarih,138,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,292
+632,"Türk Dili ve Edebiyatı",138,"Fen-Edebiyat Fakültesi",Türkçe,SÖZ,310
+633,İlahiyat,138,"İlahiyat Fakültesi",Türkçe,SÖZ,283
+634,"İlahiyat (M.T.O.K.)",138,"İlahiyat Fakültesi",Türkçe,SÖZ,280
+635,"Havacılık Yönetimi",138,"Merzifon İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,304
+636,İktisat,138,"Merzifon İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,230
+637,"Siyaset Bilimi ve Kamu Yönetimi",138,"Merzifon İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,240
+638,"Kentsel Tasarım ve Peyzaj Mimarlığı",138,"Mimarlık Fakültesi",Türkçe,SAY,243
+639,Mimarlık,138,"Mimarlık Fakültesi",Türkçe,SAY,305
+640,"Şehir ve Bölge Planlama",138,"Mimarlık Fakültesi",Türkçe,SAY,239
+641,"Bilgisayar Mühendisliği",138,"Mühendislik Fakültesi",Türkçe,SAY,334
+642,"Elektrik-Elektronik Mühendisliği",138,"Mühendislik Fakültesi",Türkçe,SAY,295
+643,"Makine Mühendisliği",138,"Mühendislik Fakültesi",Türkçe,SAY,290
+644,"Beslenme ve Diyetetik",138,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,287
+645,Ebelik,138,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,311
+646,"Fizyoterapi ve Rehabilitasyon",138,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,280
+647,Hemşirelik,138,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,328
+648,Tıp,138,"Tıp Fakültesi",Türkçe,SAY,472
+649,"Felsefe (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,EA,244
+650,"Görsel İletişim Tasarımı (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,SÖZ,229
+651,"Halkla İlişkiler ve Reklamcılık (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,SÖZ,236
+652,"Sağlık Yönetimi (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,EA,286
+653,"Sosyal Hizmet (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,EA,291
+654,"Sosyoloji (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,EA,265
+655,"Tarih (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,SÖZ,332
+656,"Türk Dili ve Edebiyatı (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,SÖZ,320
+657,"Yönetim Bilişim Sistemleri (Açıköğretim)",54,"Açıköğretim Fakültesi",Türkçe,EA,283
+658,Eczacılık,54,"Eczacılık Fakültesi",Türkçe,SAY,439
+659,Arkeoloji,54,"Edebiyat Fakültesi",Türkçe,EA,281
+660,Felsefe,54,"Edebiyat Fakültesi",Türkçe,EA,283
+661,Psikoloji,54,"Edebiyat Fakültesi",Türkçe,EA,395
+662,"Rus Dili ve Edebiyatı (Rusça)",54,"Edebiyat Fakültesi",Türkçe,DİL,396
+663,"Sanat Tarihi",54,"Edebiyat Fakültesi",Türkçe,SÖZ,345
+664,Sosyoloji,54,"Edebiyat Fakültesi",Türkçe,EA,311
+665,Tarih,54,"Edebiyat Fakültesi",Türkçe,SÖZ,379
+666,"Türk Dili ve Edebiyatı",54,"Edebiyat Fakültesi",Türkçe,SÖZ,383
+667,"Almanca Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,DİL,399
+668,"Bilgisayar ve Öğretim Teknolojileri Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,SAY,304
+669,"Fransızca Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,DİL,389
+670,"İlköğretim Matematik Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,SAY,332
+671,"İngilizce Öğretmenliği",54,"Eğitim Fakültesi",İngilizce,DİL,455
+672,"İngilizce Öğretmenliği (İngilizce) (UOLP-Suny Cortland) (Ücretli)",54,"Eğitim Fakültesi",İngilizce,DİL,334
+673,"Okul Öncesi Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,SÖZ,428
+674,"Özel Eğitim Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,SÖZ,449
+675,"Rehberlik ve Psikolojik Danışmanlık",54,"Eğitim Fakültesi",Türkçe,EA,375
+676,"Sınıf Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,EA,376
+677,"Sosyal Bilgiler Öğretmenliği",54,"Eğitim Fakültesi",Türkçe,SÖZ,387
+678,Hukuk,54,"Hukuk Fakültesi",Türkçe,EA,417
+679,"Çalışma Ekonomisi ve Endüstri İlişkileri",54,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,297
+680,İktisat,54,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,316
+681,"İktisat (İngilizce)",54,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,342
+682,"İktisat (İngilizce) (UOLP-Suny Cortland) (Ücretli)",54,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,258
+683,İşletme,54,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,326
+684,"İşletme (İngilizce)",54,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,355
+685,"İşletme (İngilizce) (UOLP-Suny Empire State College) (Ücretli)",54,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,271
+686,Maliye,54,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,310
+687,"Maliye (KKTC Uyruklu)",54,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,268
+688,"Siyaset Bilimi ve Kamu Yönetimi",54,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,328
+689,"Çalışma Ekonomisi ve Endüstri İlişkileri (Açıköğretim)",54,"İktisat Fakültesi",Türkçe,EA,225
+690,"İktisat (Açıköğretim)",54,"İktisat Fakültesi",Türkçe,EA,234
+691,"İktisat (İngilizce) (Açıköğretim)",54,"İktisat Fakültesi",İngilizce,EA,225
+692,"Maliye (Açıköğretim)",54,"İktisat Fakültesi",Türkçe,EA,232
+693,"Siyaset Bilimi ve Kamu Yönetimi (Açıköğretim)",54,"İktisat Fakültesi",Türkçe,EA,237
+694,"Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Açıköğretim)",54,"İktisat Fakültesi",İngilizce,EA,223
+695,"Uluslararası İlişkiler (Açıköğretim)",54,"İktisat Fakültesi",Türkçe,EA,231
+696,"Uluslararası İlişkiler (İngilizce) (Açıköğretim)",54,"İktisat Fakültesi",İngilizce,EA,243
+697,Gazetecilik,54,"İletişim Bilimleri Fakültesi",Türkçe,SÖZ,346
+698,"Halkla İlişkiler ve Reklamcılık",54,"İletişim Bilimleri Fakültesi",Türkçe,SÖZ,365
+699,"İletişim Tasarımı ve Yönetimi",54,"İletişim Bilimleri Fakültesi",Türkçe,SÖZ,357
+700,"Sinema ve Televizyon",54,"İletişim Bilimleri Fakültesi",Türkçe,SÖZ,373
+701,"Havacılık Yönetimi (Açıköğretim)",54,"İşletme Fakültesi",Türkçe,EA,242
+702,"İşletme (Açıköğretim)",54,"İşletme Fakültesi",Türkçe,EA,246
+703,"İşletme (İngilizce) (Açıköğretim)",54,"İşletme Fakültesi",İngilizce,EA,250
+704,"Uluslararası Ticaret ve Lojistik (Açıköğretim)",54,"İşletme Fakültesi",Türkçe,EA,243
+705,"Beslenme ve Diyetetik",54,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,347
+706,"Dil ve Konuşma Terapisi",54,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,419
+707,"Dil ve Konuşma Terapisi (KKTC Uyruklu)",54,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,317
+708,"Sosyal Hizmet",54,"Sağlık Bilimleri Fakültesi",Türkçe,EA,313
+709,"Gastronomi ve Mutfak Sanatları",54,"Turizm Fakültesi",Türkçe,SÖZ,419
+710,"Turizm İşletmeciliği",54,"Turizm Fakültesi",Türkçe,EA,290
+711,"Turizm Rehberliği",54,"Turizm Fakültesi",Türkçe,DİL,394
+712,"Turizm Rehberliği (KKTC Uyruklu)",54,"Turizm Fakültesi",Türkçe,DİL,NULL
+713,"Film Tasarımı ve Yönetimi (İngilizce) (%50 İndirimli)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,SÖZ,175
+714,"Film Tasarımı ve Yönetimi (İngilizce) (Burslu)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,SÖZ,394
+715,"Film Tasarımı ve Yönetimi (İngilizce) (Ücretli)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,SÖZ,210
+716,"İç Mimarlık ve Çevre Tasarımı (İngilizce) (%50 İndirimli)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,EA,278
+717,"İç Mimarlık ve Çevre Tasarımı (İngilizce) (Burslu)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,EA,364
+718,"İç Mimarlık ve Çevre Tasarımı (İngilizce) (Ücretli)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,EA,261
+719,"Yeni Medya ve İletişim (İngilizce) (%50 İndirimli)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,SÖZ,173
+720,"Yeni Medya ve İletişim (İngilizce) (Burslu)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,SÖZ,369
+721,"Yeni Medya ve İletişim (İngilizce) (Ücretli)",194,"Güzel Sanatlar ve Tasarım Fakültesi",İngilizce,SÖZ,230
+722,"Hukuk (%50 İndirimli)",194,"Hukuk Fakültesi",Türkçe,EA,358
+723,"Hukuk (Burslu)",194,"Hukuk Fakültesi",Türkçe,EA,411
+724,"Hukuk (Ücretli)",194,"Hukuk Fakültesi",Türkçe,EA,352
+725,"İngilizce Mütercim ve Tercümanlık (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,DİL,287
+726,"İngilizce Mütercim ve Tercümanlık (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,DİL,437
+727,"İngilizce Mütercim ve Tercümanlık (Ücretli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,DİL,214
+728,"İşletme (İngilizce) (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,200
+729,"İşletme (İngilizce) (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,341
+730,"Psikoloji (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,316
+731,"Psikoloji (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,377
+732,"Psikoloji (İngilizce) (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,309
+733,"Psikoloji (İngilizce) (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,377
+734,"Psikoloji (İngilizce) (Ücretli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,235
+735,"Psikoloji (Ücretli)",194,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,260
+736,"Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,186
+737,"Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,336
+738,"Yönetim Bilişim Sistemleri (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,261
+739,"Yönetim Bilişim Sistemleri (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,374
+740,"Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,257
+741,"Yönetim Bilişim Sistemleri (İngilizce) (Burslu)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,375
+742,"Yönetim Bilişim Sistemleri (İngilizce) (Ücretli)",194,"İnsan ve Toplum Bilimleri Fakültesi",İngilizce,EA,238
+743,"Yönetim Bilişim Sistemleri (Ücretli)",194,"İnsan ve Toplum Bilimleri Fakültesi",Türkçe,EA,210
+744,"Bilgisayar Mühendisliği (%50 İndirimli)",194,"Mühendislik ve Mimarlık Fakültesi",Türkçe,SAY,292
+745,"Bilgisayar Mühendisliği (Burslu)",194,"Mühendislik ve Mimarlık Fakültesi",Türkçe,SAY,425
+746,"Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,297
+747,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,430
+748,"Bilgisayar Mühendisliği (İngilizce) (Ücretli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,293
+749,"Bilgisayar Mühendisliği (Ücretli)",194,"Mühendislik ve Mimarlık Fakültesi",Türkçe,SAY,NULL
+750,"Bilişim Sistemleri Mühendisliği (İngilizce) (%50 İndirimli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,293
+751,"Bilişim Sistemleri Mühendisliği (İngilizce) (Burslu)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,397
+752,"Bilişim Sistemleri Mühendisliği (İngilizce) (Ücretli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,NULL
+753,"Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,292
+754,"Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,417
+755,"Elektrik-Elektronik Mühendisliği (İngilizce) (Ücretli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,NULL
+756,"Endüstri Mühendisliği (İngilizce) (%50 İndirimli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,292
+757,"Endüstri Mühendisliği (İngilizce) (Burslu)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,411
+758,"Yazılım Mühendisliği (İngilizce) (%50 İndirimli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,291
+759,"Yazılım Mühendisliği (İngilizce) (Burslu)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,417
+760,"Yazılım Mühendisliği (İngilizce) (Ücretli)",194,"Mühendislik ve Mimarlık Fakültesi",İngilizce,SAY,NULL
+761,"Arapça Mütercim ve Tercümanlık",134,"Edebiyat Fakültesi",Türkçe,DİL,337
+762,Arkeoloji,134,"Edebiyat Fakültesi",Türkçe,EA,283
+763,Coğrafya,134,"Edebiyat Fakültesi",Türkçe,SÖZ,368
+764,"Çağdaş Türk Lehçeleri ve Edebiyatları",134,"Edebiyat Fakültesi",Türkçe,SÖZ,332
+765,"Çin Dili ve Edebiyatı",134,"Edebiyat Fakültesi",Türkçe,DİL,409
+766,Felsefe,134,"Edebiyat Fakültesi",Türkçe,EA,289
+767,"Fransız Dili ve Edebiyatı",134,"Edebiyat Fakültesi",Türkçe,DİL,387
+768,"Fransızca Mütercim ve Tercümanlık",134,"Edebiyat Fakültesi",Türkçe,DİL,392
+769,"İngiliz Dili ve Edebiyatı (İngilizce)",134,"Edebiyat Fakültesi",İngilizce,DİL,426
+770,Psikoloji,134,"Edebiyat Fakültesi",Türkçe,EA,388
+771,"Rus Dili ve Edebiyatı",134,"Edebiyat Fakültesi",Türkçe,DİL,385
+772,"Sanat Tarihi",134,"Edebiyat Fakültesi",Türkçe,SÖZ,356
+773,Sosyoloji,134,"Edebiyat Fakültesi",Türkçe,EA,311
+774,Tarih,134,"Edebiyat Fakültesi",Türkçe,SÖZ,399
+775,"Türk Dili ve Edebiyatı",134,"Edebiyat Fakültesi",Türkçe,SÖZ,390
+776,"Türk Halkbilimi",134,"Edebiyat Fakültesi",Türkçe,SÖZ,325
+777,"Finans ve Bankacılık",134,"Finansal Bilimler Fakültesi",Türkçe,EA,308
+778,Sigortacılık,134,"Finansal Bilimler Fakültesi",Türkçe,EA,288
+779,"Fotoğraf ve Video",134,"Güzel Sanatlar Fakültesi",Türkçe,SÖZ,336
+780,"Fotoğraf ve Video (KKTC UYRUKLU)",134,"Güzel Sanatlar Fakültesi",Türkçe,SÖZ,NULL
+781,"Görsel İletişim Tasarımı",134,"Güzel Sanatlar Fakültesi",Türkçe,SÖZ,377
+782,"Kültür Varlıklarını Koruma ve Onarım",134,"Güzel Sanatlar Fakültesi",Türkçe,EA,264
+783,Hukuk,134,"Hukuk Fakültesi",Türkçe,EA,434
+784,"Çalışma Ekonomisi ve Endüstri İlişkileri",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,311
+785,Ekonometri,134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,297
+786,İktisat,134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,326
+787,İşletme,134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,325
+788,"İşletme (İngilizce)",134,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,353
+789,Maliye,134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,329
+790,"Sağlık Yönetimi",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,301
+791,"Sağlık Yönetimi (KKTC Uyruklu)",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,NULL
+792,"Siyaset Bilimi ve Kamu Yönetimi",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,339
+793,"Uluslararası İlişkiler",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,338
+794,"Uluslararası İlişkiler (İngilizce)",134,"İktisadi ve İdari Bilimler Fakültesi",İngilizce,EA,355
+795,"Uluslararası Ticaret ve Finansman",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,322
+796,"Yönetim Bilişim Sistemleri",134,"İktisadi ve İdari Bilimler Fakültesi",Türkçe,EA,377
+797,İlahiyat,134,"İlahiyat Fakültesi",Türkçe,SÖZ,363
+798,"İlahiyat (M.T.O.K.)",134,"İlahiyat Fakültesi",Türkçe,SÖZ,352
+799,Gazetecilik,134,"İletişim Fakültesi",Türkçe,SÖZ,355
+800,"Gazetecilik (KKTC Uyruklu)",134,"İletişim Fakültesi",Türkçe,SÖZ,NULL
+801,"Halkla İlişkiler ve Tanıtım",134,"İletişim Fakültesi",Türkçe,SÖZ,358
+802,"Radyo, Televizyon ve Sinema",134,"İletişim Fakültesi",Türkçe,SÖZ,370
+803,Biyoloji,134,"Polatlı Fen-Edebiyat Fakültesi",Türkçe,SAY,277
+804,Fizik,134,"Polatlı Fen-Edebiyat Fakültesi",Türkçe,SAY,268
+805,Kimya,134,"Polatlı Fen-Edebiyat Fakültesi",Türkçe,SAY,284
+806,Matematik,134,"Polatlı Fen-Edebiyat Fakültesi",Türkçe,SAY,293
+807,Tarih,134,"Polatlı Fen-Edebiyat Fakültesi",Türkçe,SÖZ,343
+808,"Türk Dili ve Edebiyatı",134,"Polatlı Fen-Edebiyat Fakültesi",Türkçe,SÖZ,350
+809,"El Sanatları",134,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,329
+810,"El Sanatları (KKTC UYRUKLU)",134,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,NULL
+811,"El Sanatları (M.T.O.K.)",134,"Sanat ve Tasarım Fakültesi",Türkçe,SÖZ,218
+812,"Kuyumculuk ve Mücevher Tasarımı",134,"Sanat ve Tasarım Fakültesi",Türkçe,EA,287
+813,"Moda Tasarımı",134,"Sanat ve Tasarım Fakültesi",Türkçe,EA,304
+814,"Moda Tasarımı (M.T.O.K.)",134,"Sanat ve Tasarım Fakültesi",Türkçe,EA,250
+815,"Tekstil Tasarımı",134,"Sanat ve Tasarım Fakültesi",Türkçe,EA,285
+816,"Tekstil Tasarımı (KKTC UYRUKLU)",134,"Sanat ve Tasarım Fakültesi",Türkçe,EA,NULL
+817,"Tekstil Tasarımı (M.T.O.K.)",134,"Sanat ve Tasarım Fakültesi",Türkçe,EA,226
+818,"Emlak ve Emlak Yönetimi",134,"Tapu Kadastro Yüksekokulu",Türkçe,EA,272
+819,"Tapu Kadastro",134,"Tapu Kadastro Yüksekokulu",Türkçe,EA,304
+820,"Gastronomi ve Mutfak Sanatları",134,"Turizm Fakültesi",Türkçe,SÖZ,399
+821,"Gastronomi ve Mutfak Sanatları (M.T.O.K.)",134,"Turizm Fakültesi",Türkçe,SÖZ,356
+822,"Rekreasyon Yönetimi",134,"Turizm Fakültesi",Türkçe,SÖZ,314
+823,"Rekreasyon Yönetimi (M.T.O.K.)",134,"Turizm Fakültesi",Türkçe,SÖZ,193
+824,"Turizm İşletmeciliği",134,"Turizm Fakültesi",Türkçe,EA,278
+825,"Turizm Rehberliği",134,"Turizm Fakültesi",Türkçe,DİL,348
+826,"Diş Hekimliği (%25 İndirimli)",158,"Diş Hekimliği Fakültesi",Türkçe,SAY,438
+827,"Diş Hekimliği (Burslu)",158,"Diş Hekimliği Fakültesi",Türkçe,SAY,465
+828,"Diş Hekimliği (İngilizce) (%25 İndirimli)",158,"Diş Hekimliği Fakültesi",İngilizce,SAY,430
+829,"Diş Hekimliği (İngilizce) (Burslu)",158,"Diş Hekimliği Fakültesi",İngilizce,SAY,462
+830,"Diş Hekimliği (İngilizce) (Ücretli)",158,"Diş Hekimliği Fakültesi",İngilizce,SAY,430
+831,"Diş Hekimliği (Ücretli)",158,"Diş Hekimliği Fakültesi",Türkçe,SAY,437
+832,"Eczacılık (%25 İndirimli)",158,"Eczacılık Fakültesi",Türkçe,SAY,414
+833,"Eczacılık (Burslu)",158,"Eczacılık Fakültesi",Türkçe,SAY,440
+834,"Eczacılık (İngilizce) (%25 İndirimli)",158,"Eczacılık Fakültesi",İngilizce,SAY,399
+835,"Eczacılık (İngilizce) (Burslu)",158,"Eczacılık Fakültesi",İngilizce,SAY,438
+836,"Eczacılık (İngilizce) (Ücretli)",158,"Eczacılık Fakültesi",İngilizce,SAY,397
+837,"Eczacılık (Ücretli)",158,"Eczacılık Fakültesi",Türkçe,SAY,412
+838,"Gastronomi ve Mutfak Sanatları (İngilizce) (%25 İndirimli)",158,"Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",İngilizce,SÖZ,288
+839,"Gastronomi ve Mutfak Sanatları (İngilizce) (Burslu)",158,"Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",İngilizce,SÖZ,434
+840,"İç Mimarlık ve Çevre Tasarımı (%25 İndirimli)",158,"Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",Türkçe,EA,304
+841,"İç Mimarlık ve Çevre Tasarımı (Burslu)",158,"Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",Türkçe,EA,369
+842,"Hukuk (%25 İndirimli)",158,"Hukuk Fakültesi",Türkçe,EA,384
+843,"Hukuk (Burslu)",158,"Hukuk Fakültesi",Türkçe,EA,419
+844,"Hukuk (Ücretli)",158,"Hukuk Fakültesi",Türkçe,EA,383
+845,"Psikoloji (%25 İndirimli)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,334
+846,"Psikoloji (Burslu)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,398
+847,"Psikoloji (İngilizce) (%25 İndirimli)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,329
+848,"Psikoloji (İngilizce) (Burslu)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,403
+849,"Uluslararası Ticaret ve Finansman (%25 İndirimli)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,265
+850,"Uluslararası Ticaret ve Finansman (Burslu)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,350
+851,"Uluslararası Ticaret ve Finansman (İngilizce) (%25 İndirimli)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,279
+852,"Uluslararası Ticaret ve Finansman (İngilizce) (Burslu)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",İngilizce,EA,353
+853,"Yönetim Bilişim Sistemleri (%25 İndirimli)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,314
+854,"Yönetim Bilişim Sistemleri (Burslu)",158,"İktisadi, İdari ve Sosyal Bilimler Fakültesi",Türkçe,EA,386
+855,"Halkla İlişkiler ve Reklamcılık (%25 İndirimli)",158,"İletişim Fakültesi",Türkçe,SÖZ,200
+856,"Halkla İlişkiler ve Reklamcılık (Burslu)",158,"İletişim Fakültesi",Türkçe,SÖZ,391
+857,"Bilgisayar Mühendisliği (İngilizce) (%25 İndirimli)",158,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,362
+858,"Bilgisayar Mühendisliği (İngilizce) (Burslu)",158,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,464
+859,"Elektrik-Elektronik Mühendisliği (İngilizce) (%25 İndirimli)",158,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,336
+860,"Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)",158,"Mühendislik ve Doğa Bilimleri Fakültesi",İngilizce,SAY,442
+861,"Beslenme ve Diyetetik (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,287
+862,"Beslenme ve Diyetetik (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,376
+863,"Dil ve Konuşma Terapisi (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,315
+864,"Dil ve Konuşma Terapisi (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,420
+865,"Ebelik (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,277
+866,"Ebelik (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,329
+867,"Ergoterapi (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,247
+868,"Ergoterapi (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,338
+869,"Fizyoterapi ve Rehabilitasyon (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,262
+870,"Fizyoterapi ve Rehabilitasyon (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,353
+871,"Hemşirelik (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,304
+872,"Hemşirelik (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,375
+873,"Hemşirelik (İngilizce) (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,285
+874,"Hemşirelik (İngilizce) (Burslu)",158,"Sağlık Bilimleri Fakültesi",İngilizce,SAY,372
+875,"Odyoloji (%25 İndirimli)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,240
+876,"Odyoloji (Burslu)",158,"Sağlık Bilimleri Fakültesi",Türkçe,SAY,304
+877,"Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (%25 İndirimli)",158,"Siyasal Bilgiler Fakültesi",İngilizce,EA,291
+878,"Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (Burslu)",158,"Siyasal Bilgiler Fakültesi",İngilizce,EA,360
+879,"Tıp (%25 İndirimli)",158,"Tıp Fakültesi",Türkçe,SAY,473
+880,"Tıp (Burslu)",158,"Tıp Fakültesi",Türkçe,SAY,505
+881,"Tıp (İngilizce) (%25 İndirimli)",158,"Tıp Fakültesi",İngilizce,SAY,461
+882,"Tıp (İngilizce) (Burslu)",158,"Tıp Fakültesi",İngilizce,SAY,502
+883,"Tıp (İngilizce) (Ücretli)",158,"Tıp Fakültesi",İngilizce,SAY,461
+884,"Tıp (Ücretli)",158,"Tıp Fakültesi",Türkçe,SAY,471
+885,"Hukuk (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,EA,353
+886,"Hukuk (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,EA,374
+887,"Hukuk (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,EA,352
+888,"İktisat (İngilizce) (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,213
+889,"İktisat (İngilizce) (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,204
+890,"İktisat (İngilizce) (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,290
+891,"İlahiyat (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,SÖZ,227
+892,"İngilizce Öğretmenliği (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,DİL,258
+893,"İngilizce Öğretmenliği (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,DİL,359
+894,"İngilizce Öğretmenliği (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,DİL,240
+895,"Özel Eğitim Öğretmenliği (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,SÖZ,394
+896,"Özel Eğitim Öğretmenliği (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,SÖZ,417
+897,"Özel Eğitim Öğretmenliği (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,SÖZ,381
+898,"Psikoloji (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,EA,226
+899,"Psikoloji (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,EA,323
+900,"Psikoloji (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",Türkçe,EA,221
+901,"Uluslararası Girişimcilik (İngilizce) (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,187
+902,"Uluslararası Girişimcilik (İngilizce) (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,215
+903,"Uluslararası Girişimcilik (İngilizce) (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,180
+904,"Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,187
+905,"Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,240
+906,"Uluslararası Ticaret ve Lojistik (İngilizce) (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,214
+907,"Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,194
+908,"Yönetim Bilişim Sistemleri (İngilizce) (Burslu)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,275
+909,"Yönetim Bilişim Sistemleri (İngilizce) (Ücretli)",70,"ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",İngilizce,EA,190
+910,Hukuk,70,"Hukuk Fakültesi",Türkçe,EA,421
+911,İlahiyat,70,"İlahiyat Fakültesi",Türkçe,SÖZ,376
+912,"İlahiyat (M.T.O.K.)",70,"İlahiyat Fakültesi",Türkçe,SÖZ,359
+913,"Ekonomi (İngilizce)",70,"Siyasal Bilgiler Fakültesi",İngilizce,EA,338
+914,"Ekonomi (İngilizce) (KKTC Uyruklu)",70,"Siyasal Bilgiler Fakültesi",İngilizce,EA,304
+915,"İşletme (İngilizce)",70,"Siyasal Bilgiler Fakültesi",İngilizce,EA,349
+916,"Siyaset Bilimi ve Kamu Yönetimi (İngilizce)",70,"Siyasal Bilgiler Fakültesi",İngilizce,EA,354
+917,"Uluslararası İlişkiler (İngilizce)",70,"Siyasal Bilgiler Fakültesi",İngilizce,EA,366
+918,Felsefe,70,"Sosyal ve Beşeri Bilimler Fakültesi",Türkçe,EA,289
+919,"Psikoloji (İngilizce)",70,"Sosyal ve Beşeri Bilimler Fakültesi",İngilizce,EA,401
+920,"Sosyoloji (İngilizce)",70,"Sosyal ve Beşeri Bilimler Fakültesi",İngilizce,EA,325
+921,"Sosyoloji (İngilizce) (KKTC Uyruklu)",70,"Sosyal ve Beşeri Bilimler Fakültesi",İngilizce,EA,239
+922,"Tarih (İngilizce)",70,"Sosyal ve Beşeri Bilimler Fakültesi",İngilizce,SÖZ,419
+923,"Tarih (İngilizce) (KKTC Uyruklu)",70,"Sosyal ve Beşeri Bilimler Fakültesi",İngilizce,SÖZ,255
+924,"Türk Dili ve Edebiyatı",70,"Sosyal ve Beşeri Bilimler Fakültesi",Türkçe,SÖZ,381
+925,"İngiliz Dili ve Edebiyatı (İngilizce)",70,"Yabancı Diller Fakültesi",İngilizce,DİL,432
+926,"Japonca Mütercim ve Tercümanlık",70,"Yabancı Diller Fakültesi",Türkçe,DİL,421
+927,"Rusça Mütercim ve Tercümanlık",70,"Yabancı Diller Fakültesi",Türkçe,DİL,404
+928,"Rusça Mütercim ve Tercümanlık (KKTC UYRUKLU)",70,"Yabancı Diller Fakültesi",Türkçe,DİL,NULL
+929,"Arap Dili ve Edebiyatı (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,DİL,384
+930,"Coğrafya (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,SÖZ,309
+931,"Elektronik Ticaret ve Yönetimi (Açıköğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,EA,216
+932,"Gazetecilik (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,SÖZ,304
+933,"Halkla İlişkiler ve Tanıtım (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,SÖZ,290
+934,"İngiliz Dili ve Edebiyatı (İngilizce) (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",İngilizce,DİL,416
+935,"Radyo, Televizyon ve Sinema (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,SÖZ,323
+936,"Rus Dili ve Edebiyatı (Rusça) (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,DİL,374
+937,"Sanat Tarihi (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,SÖZ,407
+938,"Sinoloji (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,DİL,360
+939,"Sosyal Hizmet (Uzaktan Öğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,EA,276
+940,"Yönetim Bilişim Sistemleri (Açıköğretim)",42,"Açık ve Uzaktan Eğitim Fakültesi",Türkçe,EA,274
+941,"Alman Dili ve Edebiyatı (Almanca)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,413
+942,"Amerikan Kültürü ve Edebiyatı (İngilizce)",42,"Dil ve Tarih Coğrafya Fakültesi",İngilizce,DİL,441
+943,Antropoloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,294
+944,"Antropoloji (KKTC UYRUKLU)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,NULL
+945,"Arap Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,324
+946,"Arkeoloji (İngilizce)",42,"Dil ve Tarih Coğrafya Fakültesi",İngilizce,EA,324
+947,"Bilgi ve Belge Yönetimi",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,310
+948,"Bulgar Dili ve Edebiyatı (Bulgarca)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,315
+949,Coğrafya,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,384
+950,"Coğrafya (İngilizce)",42,"Dil ve Tarih Coğrafya Fakültesi",İngilizce,SÖZ,382
+951,"Coğrafya (İngilizce)KKTC Uyruklu",42,"Dil ve Tarih Coğrafya Fakültesi",İngilizce,SÖZ,353
+952,"Çağdaş Türk Lehçeleri ve Edebiyatları",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,347
+953,"Çağdaş Yunan Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,362
+954,"Çağdaş Yunan Dili ve Edebiyatı (KKTC Uyruklu)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,346
+955,Dilbilimi,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,418
+956,"Ermeni Dili ve Kültürü (Ermenice)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,256
+957,"Fars Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,298
+958,Felsefe,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,318
+959,"Felsefe (İngilizce)",42,"Dil ve Tarih Coğrafya Fakültesi",İngilizce,EA,328
+960,"Fransız Dili ve Edebiyatı (Fransızca)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,419
+961,Halkbilimi,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,345
+962,"Halkbilimi (KKTC UYRUKLU)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,272
+963,Hindoloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,271
+964,Hititoloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,312
+965,Hungaroloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,320
+966,"İngiliz Dili ve Edebiyatı (İngilizce)",42,"Dil ve Tarih Coğrafya Fakültesi",İngilizce,DİL,453
+967,"İspanyol Dili ve Edebiyatı (İspanyolca)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,433
+968,"İtalyan Dili ve Edebiyatı (İtalyanca)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,411
+969,"Japon Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,439
+970,"Klasik Arkeoloji",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,303
+971,"Kore Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,426
+972,"Kore Dili ve Edebiyatı (KKTC Uyruklu)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,306
+973,"Latin Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,379
+974,"Leh Dili ve Edebiyatı (Lehçe)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,352
+975,"Protohistorya ve Ön Asya Arkeolojisi",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,279
+976,Psikoloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,422
+977,"Rus Dili ve Edebiyatı (Rusça)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,414
+978,"Sanat Tarihi",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,391
+979,Sinoloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,435
+980,Sosyoloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,337
+981,Sümeroloji,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,357
+982,Tarih,42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,456
+983,"Tarih Öncesi Arkeolojisi",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,EA,285
+984,"Türk Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,SÖZ,414
+985,"Urdu Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,251
+986,"Yunan Dili ve Edebiyatı",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,363
+987,"Yunan Dili ve Edebiyatı (KKTC Uyruklu)",42,"Dil ve Tarih Coğrafya Fakültesi",Türkçe,DİL,330
+988,"Diş Hekimliği",42,"Diş Hekimliği Fakültesi",Türkçe,SAY,477
+989,"Diş Hekimliği (İngilizce)",42,"Diş Hekimliği Fakültesi",İngilizce,SAY,475
+990,Eczacılık,42,"Eczacılık Fakültesi",Türkçe,SAY,446
+991,"Eczacılık (İngilizce)",42,"Eczacılık Fakültesi",İngilizce,SAY,449
+992,"Bilgisayar ve Öğretim Teknolojileri Öğretmenliği",42,"Eğitim Bilimleri Fakültesi",Türkçe,SAY,313
+993,"Okul Öncesi Öğretmenliği",42,"Eğitim Bilimleri Fakültesi",Türkçe,SÖZ,436
+994,"Özel Eğitim Öğretmenliği",42,"Eğitim Bilimleri Fakültesi",Türkçe,SÖZ,459
+995,"Rehberlik ve Psikolojik Danışmanlık",42,"Eğitim Bilimleri Fakültesi",Türkçe,EA,388
+996,"Sınıf Öğretmenliği",42,"Eğitim Bilimleri Fakültesi",Türkçe,EA,379
+997,"Sosyal Bilgiler Öğretmenliği",42,"Eğitim Bilimleri Fakültesi",Türkçe,SÖZ,394
+998,"Astronomi ve Uzay Bilimleri",42,"Fen Fakültesi",Türkçe,SAY,308
+999,"Astronomi ve Uzay Bilimleri (KKTC Uyruklu)",42,"Fen Fakültesi",Türkçe,SAY,253
+1000,"Bilgisayar Bilimleri",42,"Fen Fakültesi",Türkçe,SAY,416
