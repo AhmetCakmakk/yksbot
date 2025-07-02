@@ -1,6 +1,11 @@
 import streamlit as st
 import pandas as pd
+import json
 from topsis_module import topsis_hesapla
+from openai import OpenAI  
+
+
+client = OpenAI(api_key=st.secrets["openai"]["api_key"])
 
 @st.cache_data
 def load_data():
@@ -11,7 +16,7 @@ def load_data():
 
 iller_df, universiteler_df, bolumler_df = load_data()
 
-st.title("Üniversite Tercih Yardımcısı")
+st.title(" Üniversite Tercih Yardımcısı")
 
 st.subheader("1. Tercih Bilgilerinizi Girin")
 puan_turu = st.selectbox("Puan türünüz", ["SAY", "EA", "SÖZ", "DİL"])
@@ -28,9 +33,9 @@ if puan and aranan_bolum:
     uygun_uniler = universiteler_df[universiteler_df['uni_id'].isin(uygun_uni_ids)]
 
     if uygun_uniler.empty:
-        st.warning("Bu puan ve bölüm ile eşleşen üniversite bulunamadı.")
+        st.warning("❗ Bu puan ve bölüm ile eşleşen üniversite bulunamadı.")
     else:
-        st.success(f"{len(uygun_uniler)} uygun üniversite bulundu.")
+        st.success(f"✅ {len(uygun_uniler)} uygun üniversite bulundu.")
 
         st.subheader("2. Sizin İçin Önemli Kriterleri Seçin")
 
@@ -54,9 +59,46 @@ if puan and aranan_bolum:
 
         kriter_agirliklari = {k: v for k, v in kriterler.items() if v > 0}
 
-        if st.button("Üniversiteleri Sırala"):
+        if st.button(" Üniversiteleri Sırala"):
             if not kriter_agirliklari:
                 st.warning("Lütfen en az bir kritere önem derecesi giriniz.")
             else:
                 sonuc_df = topsis_hesapla(uygun_uniler, bolumler_df, iller_df, kriter_agirliklari)
                 st.dataframe(sonuc_df)
+
+                try:
+                    # GPT'ye verilecek prompt
+                    prompt = f"""
+Aşağıda TOPSIS skorlarına göre sıralanmış üniversite listesi var:
+
+{sonuc_df.head(10).to_string(index=False)}
+
+Kullanıcının tercih ettiği kriterler ve önem dereceleri şu şekildedir:
+{json.dumps(kriter_agirliklari, indent=2, ensure_ascii=False)}
+
+Bu verilere göre aşağıdaki analizleri yap:
+1. Kullanıcının en yüksek ağırlık verdiği kriter(ler) hangileri?
+2. Bu kriterlerde hangi üniversiteler öne çıkmış olabilir?
+3. İlk 3 üniversitenin neden yüksek skor almış olabileceğini açıklamaya çalış.
+4. Birbirine yakın skorlu üniversiteler varsa, aralarındaki farkı anlamaya çalış.
+5. Kullanıcıya önerilerde bulun: hangi kritere göre nasıl tercih yapmalı?
+
+Anlaşılır, kullanıcı dostu ve tavsiye odaklı bir analiz sun.
+"""
+
+                    with st.spinner("🔍 ChatGPT kriterlere göre yorumluyor..."):
+                        response = client.chat.completions.create(
+                            model="gpt-4",
+                            messages=[
+                                {"role": "system", "content": "Sen bir üniversite tercih danışmanısın ve TOPSIS skoru ile üniversiteleri analiz ediyorsun."},
+                                {"role": "user", "content": prompt}
+                            ]
+                        )
+
+                        yorum = response.choices[0].message.content
+
+                    st.markdown("### Asistan Yorumu")
+                    st.write(yorum)
+
+                except Exception as e:
+                    st.error(f"GPT yorum alınamadı: {str(e)}")
